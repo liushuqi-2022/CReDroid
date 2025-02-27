@@ -5,18 +5,18 @@
 * Windows
 * [Appium 桌面客户端](https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4)
 * Python 3.9
-* [Requirements]()
+* [Requirements](https://github.com/liushuqi-2022/CReDroid/blob/main/requirements.txt)
 
 ## 2. 运行CReDroid
 
-2.1 运行[`staticAnalysis.py`]()构建应用组件转换图（CTG）, 其中apk_dir为app目录, sdk_platform为安卓Sdk的安装目录, iccBot_path为工具ICCBot目录, out_path为输出目录
+2.1 运行[`staticAnalysis.py`](https://github.com/liushuqi-2022/CReDroid/blob/main/staticAnalysis.py)构建应用组件转换图（CTG）, 其中apk_dir为app目录, sdk_platform为安卓Sdk的安装目录, iccBot_path为工具ICCBot目录, out_path为输出目录
 
 2.2 启动安卓模拟器和`Appium Desktop Client`
 
 2.3 获取标题的关键操作
 
 * 本文使用微调后的GPT-3.5-turbo模型来获取标题中的关键操作。由于GPT-3.5-turbo不是免费的，我们不直接提供我们的账户（api_key）和微调后的模型。
-微调所用数据集稍后公开，您可参考官方文档使用我们的数据集在您的账户上对GPT-3.5-turbo模型进行微调，微调步骤如下：
+微调所用数据集手稿采用后公开，您可参考官方文档使用我们的数据集在您的账户上对GPT-3.5-turbo模型进行微调，微调步骤如下：
   * 导出OpenAI API key并在环境变量中配置
   * 使用`Semantics`目录下的`fine_tune.py`微调, 获取微调后的模型ft:gpt-3.5-turbo-0125:*****
   
