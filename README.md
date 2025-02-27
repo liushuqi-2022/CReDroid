@@ -9,7 +9,7 @@
 
 ## 2. 运行CReDroid
 
-2.1 运行[`staticAnalysis.py`](https://github.com/liushuqi-2022/CReDroid/blob/main/staticAnalysis.py)使用［`ICCBot`](https://github.com/liushuqi-2022/CReDroid/blob/main/tool/ICCBot.jar)工具构建应用组件转换图（CTG）, 其中apk_dir为app目录, sdk_platform为安卓Sdk的安装目录, iccBot_path为工具ICCBot目录, out_path为输出目录
+2.1 运行[`staticAnalysis.py`](https://github.com/liushuqi-2022/CReDroid/blob/main/staticAnalysis.py)使用[`ICCBot`](https://github.com/liushuqi-2022/CReDroid/blob/main/tool/ICCBot.jar)工具构建应用组件转换图（CTG）, 其中apk_dir为app目录, sdk_platform为安卓Sdk的安装目录, iccBot_path为工具ICCBot目录, out_path为输出目录
 
 2.2 启动安卓模拟器和`Appium Desktop Client`
 
