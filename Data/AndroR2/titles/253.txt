@@ -1,0 +1,1 @@
+Focus crashes when user clicks on settings menu options listed

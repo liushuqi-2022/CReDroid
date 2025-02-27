@@ -1,0 +1,1 @@
+Crash after rotating the note to landscape or back to portrait

@@ -1,0 +1,631 @@
+{
+    "12_ankidroid-Anki-Android-2564.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.DeckPicker"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.PersonalDeckPicker",
+            "com.ichi2.anki.SharedDeckPicker",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.CardEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.charts.ChartBuilder",
+            "com.ichi2.widget.WidgetDialog",
+            "com.ichi2.veecheck.Notification"
+        ]
+    },
+    "24_getodk-skunkworks-crow-219.apk": {
+        "app_pkg": "org.odk.share",
+        "app_acti": [
+            "org.odk.share.activities.MainActivity"
+        ],
+        "all_actis": [
+            "org.odk.share.activities.MainActivity",
+            "org.odk.share.activities.WifiActivity",
+            "org.odk.share.activities.InstancesList",
+            "org.odk.share.preferences.SettingsPreference",
+            "org.odk.share.activities.WebViewActivity",
+            "org.odk.share.activities.AboutActivity",
+            "org.odk.share.activities.SendActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity",
+            "org.odk.share.activities.InstanceManagerTabs",
+            "org.odk.share.activities.ReviewFormActivity"
+        ]
+    },
+    "14_cgeo-WhereYouGo-368.apk": {
+        "app_pkg": "menion.android.whereyougo",
+        "app_acti": [
+            "menion.android.whereyougo.gui.activity.MainActivity"
+        ],
+        "all_actis": [
+            "menion.android.whereyougo.gui.activity.MainActivity",
+            "menion.android.whereyougo.maps.mapsforge.MapsforgeActivity",
+            "menion.android.whereyougo.maps.mapsforge.preferences.EditPreferences",
+            "menion.android.whereyougo.maps.mapsforge.filepicker.FilePicker",
+            "ar.com.daidalos.afiledialog.FileChooserActivity",
+            "menion.android.whereyougo.maps.mapsforge.InfoView",
+            "menion.android.whereyougo.gui.activity.CartridgeDetailsActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.MainMenuActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.DetailsActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.InputScreenActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.ListActionsActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.ListTargetsActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.ListTasksActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.ListThingsActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.ListZonesActivity",
+            "menion.android.whereyougo.gui.activity.wherigo.PushDialogActivity",
+            "menion.android.whereyougo.gui.activity.GuidingActivity",
+            "menion.android.whereyougo.gui.activity.SatelliteActivity",
+            "menion.android.whereyougo.gui.activity.XmlSettingsActivity",
+            "menion.android.whereyougo.network.activity.DownloadCartridgeActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity"
+        ]
+    },
+    "8_timusus-Shuttle-456.apk": {
+        "app_pkg": "another.music.player",
+        "app_acti": [
+            "com.simplecity.amp_library.ui.screens.main.MainActivity"
+        ],
+        "all_actis": [
+            "com.simplecity.amp_library.ui.screens.main.MainActivity",
+            "com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity",
+            "com.simplecity.amp_library.ui.screens.shortcut.ShortcutTrampolineActivity",
+            "com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium",
+            "com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge",
+            "com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall",
+            "com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge",
+            "com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.mlsdev.rximagepicker.HiddenActivity",
+            "com.android.billingclient.api.ProxyBillingActivity"
+        ]
+    },
+    "10_ankidroid-Anki-Android-2765.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.DeckPicker"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.PersonalDeckPicker",
+            "com.ichi2.anki.SharedDeckPicker",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.CardEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.charts.ChartBuilder",
+            "com.ichi2.widget.WidgetDialog",
+            "com.ichi2.veecheck.Notification"
+        ]
+    },
+    "4_ankidroid-Anki-Android-10584.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DrawingActivity",
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.ModelBrowser",
+            "com.ichi2.anki.ModelFieldEditor",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.VideoPlayer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.FilteredDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.canhub.cropper.CropImageActivity",
+            "com.ichi2.anki.analytics.AnkiDroidCrashReportDialog",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.CardTemplatePreviewer",
+            "com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.CardTemplateEditor",
+            "com.ichi2.anki.CardTemplateBrowserAppearanceEditor",
+            "com.ichi2.anki.CardInfo",
+            "com.ichi2.anki.SharedDecksActivity",
+            "org.acra.dialog.CrashReportDialog",
+            "com.ichi2.anki.CardBrowserContextMenuAction",
+            "com.ichi2.anki.AnkiCardContextMenuAction"
+        ]
+    },
+    "5_fennifith-Alarmio-47.apk": {
+        "app_pkg": "me.jfenn.alarmio",
+        "app_acti": [
+            "me.jfenn.alarmio.activities.MainActivity"
+        ],
+        "all_actis": [
+            "me.jfenn.alarmio.activities.MainActivity",
+            "me.jfenn.alarmio.activities.AlarmActivity",
+            "me.jfenn.alarmio.activities.FileChooserActivity",
+            "james.crasher.activities.CrashActivity",
+            "me.jfenn.attribouter.activities.AboutActivity"
+        ]
+    },
+    "20_JonasBernard-FakeStandby-30.apk": {
+        "app_pkg": "android.jonas.fakestandby",
+        "app_acti": [
+            "android.jonas.fakestandby.settings.SettingsActivity"
+        ],
+        "all_actis": [
+            "android.jonas.fakestandby.onboarding.OnBoardingActivity",
+            "android.jonas.fakestandby.actions.StartOverlay",
+            "android.jonas.fakestandby.actions.StopOverlay",
+            "android.jonas.fakestandby.settings.SettingsActivity",
+            "android.jonas.fakestandby.settings.LicenseActivity"
+        ]
+    },
+    "15_SecUSo-privacy-friendly-food-tracker-55.apk": {
+        "app_pkg": "org.secuso.privacyfriendlyfoodtracker",
+        "app_acti": [
+            "org.secuso.privacyfriendlyfoodtracker.activities.SplashActivity"
+        ],
+        "all_actis": [
+            "org.secuso.privacyfriendlyfoodtracker.activities.SplashActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.TutorialActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.MainActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.AboutActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.HelpActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.SettingsActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.GenerateKeyActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.OverviewActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.BaseStatisticActivity",
+            "org.secuso.privacyfriendlyfoodtracker.activities.BaseAddFoodActivity"
+        ]
+    },
+    "17_gsantner-markor-1565.apk": {
+        "app_pkg": "net.gsantner.markor",
+        "app_acti": [
+            "net.gsantner.markor.activity.MainActivity",
+            "net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity",
+            "net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity",
+            "net.gsantner.markor.activity.openeditor.OpenShareIntoActivity"
+        ],
+        "all_actis": [
+            "net.gsantner.markor.activity.MainActivity",
+            "net.gsantner.markor.activity.SettingsActivity",
+            "net.gsantner.markor.activity.ActionOrderActivity",
+            "other.writeily.widget.WrWidgetConfigure",
+            "net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity",
+            "net.gsantner.markor.activity.IntroActivity",
+            "net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity",
+            "net.gsantner.markor.activity.openeditor.OpenShareIntoActivity",
+            "net.gsantner.markor.activity.openeditor.OpenEditorFromShortcutOrWidgetActivity",
+            "net.gsantner.markor.activity.DocumentActivity"
+        ]
+    },
+    "1_TeamNewPipe-NewPipe-7825.apk": {
+        "app_pkg": "org.schabi.newpipe",
+        "app_acti": [
+            "org.schabi.newpipe.MainActivity"
+        ],
+        "all_actis": [
+            "org.schabi.newpipe.MainActivity",
+            "org.schabi.newpipe.player.PlayQueueActivity",
+            "org.schabi.newpipe.settings.SettingsActivity",
+            "org.schabi.newpipe.about.AboutActivity",
+            "org.schabi.newpipe.PanicResponderActivity",
+            "org.schabi.newpipe.ExitActivity",
+            "org.schabi.newpipe.error.ErrorActivity",
+            "org.schabi.newpipe.download.DownloadActivity",
+            "org.schabi.newpipe.util.FilePickerActivityHelper",
+            "org.schabi.newpipe.error.ReCaptchaActivity",
+            "org.schabi.newpipe.RouterActivity",
+            "com.jakewharton.processphoenix.ProcessPhoenix"
+        ]
+    },
+    "9_ankidroid-Anki-Android-3370.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.multimediacard.activity.EditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.multimediacard.activity.SearchImageActivity"
+        ]
+    },
+    "21_SecUSo-privacy-friendly-pedometer-101.apk": {
+        "app_pkg": "org.secuso.privacyfriendlyactivitytracker",
+        "app_acti": [
+            "org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity"
+        ],
+        "all_actis": [
+            "org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity",
+            "org.secuso.privacyfriendlyactivitytracker.tutorial.TutorialActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.MainActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.AboutActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.HelpActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.PreferencesActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.MotivationAlertTextsActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.WalkingModesActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.WalkingModeLearningActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.DistanceMeasurementActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.WidgetConfigureActivity"
+        ]
+    },
+    "6_plusCubed-plusTimer-19.apk": {
+        "app_pkg": "com.pluscubed.plustimer",
+        "app_acti": [
+            "com.pluscubed.plustimer.ui.CurrentSessionActivity"
+        ],
+        "all_actis": [
+            "com.pluscubed.plustimer.ui.CurrentSessionActivity",
+            "com.pluscubed.plustimer.ui.HistorySessionListActivity",
+            "com.pluscubed.plustimer.ui.HistorySolveListActivity",
+            "com.pluscubed.plustimer.ui.SettingsActivity",
+            "com.pluscubed.plustimer.ui.AboutActivity",
+            "com.pluscubed.plustimer.ui.LicensesActivity",
+            "android.support.v7.widget.TestActivity"
+        ]
+    },
+    "11_ankidroid-Anki-Android-2551.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.DeckPicker"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.PersonalDeckPicker",
+            "com.ichi2.anki.SharedDeckPicker",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.CardEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.charts.ChartBuilder",
+            "com.ichi2.widget.WidgetDialog",
+            "com.ichi2.veecheck.Notification"
+        ]
+    },
+    "16_7LPdWcaW-GrowTracker-Android-87.apk": {
+        "app_pkg": "me.anon.grow",
+        "app_acti": [
+            "me.anon.grow.BootActivity"
+        ],
+        "all_actis": [
+            "me.anon.grow.BootActivity",
+            "me.anon.grow.PlantSelectActivity",
+            "me.anon.grow.MainActivity",
+            "me.anon.grow.AddPlantActivity",
+            "me.anon.grow.AddWateringActivity",
+            "me.anon.grow.EditWateringActivity",
+            "me.anon.grow.ViewPhotosActivity",
+            "me.anon.grow.EventsActivity",
+            "me.anon.grow.StatisticsActivity",
+            "me.anon.grow.SettingsActivity",
+            "me.anon.grow.fragment.ImageLightboxDialog",
+            "me.anon.grow.PlantDetailsActivity",
+            "me.anon.grow.FeedingScheduleActivity",
+            "me.anon.grow.FeedingScheduleDetailsActivity",
+            "me.anon.grow.ScheduleDateDetailsActivity",
+            "me.anon.grow.RequestActivity"
+        ]
+    },
+    "19_mathisdt-sdbviewer-7.apk": {
+        "app_pkg": "org.zephyrsoft.sdbviewer",
+        "app_acti": [
+            "org.zephyrsoft.sdbviewer.SongListActivity"
+        ],
+        "all_actis": [
+            "org.zephyrsoft.sdbviewer.SongListActivity",
+            "org.zephyrsoft.sdbviewer.SongDetailActivity",
+            "org.zephyrsoft.sdbviewer.SettingsActivity",
+            "org.zephyrsoft.sdbviewer.AboutActivity",
+            "org.acra.dialog.CrashReportDialog"
+        ]
+    },
+    "3_ankidroid-Anki-Android-9914.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DrawingActivity",
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.ModelBrowser",
+            "com.ichi2.anki.ModelFieldEditor",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.VideoPlayer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.FilteredDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.canhub.cropper.CropImageActivity",
+            "com.ichi2.anki.analytics.AnkiDroidCrashReportDialog",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.CardTemplatePreviewer",
+            "com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.CardTemplateEditor",
+            "com.ichi2.anki.CardTemplateBrowserAppearanceEditor",
+            "com.ichi2.anki.CardInfo",
+            "com.ichi2.anki.SharedDecksActivity",
+            "org.acra.dialog.CrashReportDialog",
+            "com.ichi2.anki.CardBrowserContextMenuAction",
+            "com.ichi2.anki.AnkiCardContextMenuAction"
+        ]
+    },
+    "999_ankidroid-Anki-Android-3224_old.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.multimediacard.activity.EditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.multimediacard.activity.SearchImageActivity"
+        ]
+    },
+    "23_ankidroid-Anki-Android-3224.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.multimediacard.activity.EditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.multimediacard.activity.SearchImageActivity"
+        ]
+    },
+    "7_7LPdWcaW-GrowTracker-Android-89.apk": {
+        "app_pkg": "me.anon.grow",
+        "app_acti": [
+            "me.anon.grow.BootActivity"
+        ],
+        "all_actis": [
+            "me.anon.grow.BootActivity",
+            "me.anon.grow.PlantSelectActivity",
+            "me.anon.grow.MainActivity",
+            "me.anon.grow.AddPlantActivity",
+            "me.anon.grow.AddWateringActivity",
+            "me.anon.grow.EditWateringActivity",
+            "me.anon.grow.ViewPhotosActivity",
+            "me.anon.grow.EventsActivity",
+            "me.anon.grow.StatisticsActivity",
+            "me.anon.grow.SettingsActivity",
+            "me.anon.grow.fragment.ImageLightboxDialog",
+            "me.anon.grow.PlantDetailsActivity",
+            "me.anon.grow.FeedingScheduleActivity",
+            "me.anon.grow.FeedingScheduleDetailsActivity",
+            "me.anon.grow.ScheduleDateDetailsActivity",
+            "me.anon.grow.RequestActivity"
+        ]
+    },
+    "22_MCMrARM-revolution-irc-183.apk": {
+        "app_pkg": "io.mrarm.irc",
+        "app_acti": [
+            "io.mrarm.irc.MainActivity"
+        ],
+        "all_actis": [
+            "io.mrarm.irc.MainActivity",
+            "io.mrarm.irc.IRCLinkActivity",
+            "io.mrarm.irc.ShareTargetActivity",
+            "io.mrarm.irc.EditServerActivity",
+            "io.mrarm.irc.EditNotificationSettingsActivity",
+            "io.mrarm.irc.EditCommandAliasActivity",
+            "io.mrarm.irc.IgnoreListActivity",
+            "io.mrarm.irc.EditIgnoreEntryActivity",
+            "io.mrarm.irc.ChannelListActivity",
+            "io.mrarm.irc.CertificateManagerActivity",
+            "io.mrarm.irc.SettingsActivity",
+            "io.mrarm.irc.MessageFormatSettingsActivity",
+            "io.mrarm.irc.ThemeEditorActivity",
+            "io.mrarm.irc.StorageSettingsActivity",
+            "io.mrarm.irc.setup.BackupActivity",
+            "io.mrarm.irc.setup.BackupPasswordActivity",
+            "io.mrarm.irc.setup.BackupProgressActivity",
+            "io.mrarm.irc.setup.BackupCompleteActivity",
+            "io.mrarm.irc.DCCActivity"
+        ]
+    },
+    "18_NordicSemiconductor-Android-nRF-Mesh-Library-495.apk": {
+        "app_pkg": "no.nordicsemi.android.nrfmeshprovisioner",
+        "app_acti": [
+            "no.nordicsemi.android.nrfmesh.MainActivity"
+        ],
+        "all_actis": [
+            "no.nordicsemi.android.nrfmesh.MainActivity",
+            "no.nordicsemi.android.nrfmesh.ble.ScannerActivity",
+            "no.nordicsemi.android.nrfmesh.ble.ReconnectActivity",
+            "no.nordicsemi.android.nrfmesh.GroupControlsActivity",
+            "no.nordicsemi.android.nrfmesh.provisioners.ProvisionersActivity",
+            "no.nordicsemi.android.nrfmesh.provisioners.AddProvisionerActivity",
+            "no.nordicsemi.android.nrfmesh.provisioners.EditProvisionerActivity",
+            "no.nordicsemi.android.nrfmesh.provisioners.RangesActivity",
+            "no.nordicsemi.android.nrfmesh.keys.NetKeysActivity",
+            "no.nordicsemi.android.nrfmesh.keys.EditNetKeyActivity",
+            "no.nordicsemi.android.nrfmesh.keys.AddNetKeyActivity",
+            "no.nordicsemi.android.nrfmesh.keys.AppKeysActivity",
+            "no.nordicsemi.android.nrfmesh.keys.AddAppKeyActivity",
+            "no.nordicsemi.android.nrfmesh.keys.EditAppKeyActivity",
+            "no.nordicsemi.android.nrfmesh.ProvisioningActivity",
+            "no.nordicsemi.android.nrfmesh.node.NodeConfigurationActivity",
+            "no.nordicsemi.android.nrfmesh.keys.AddNetKeysActivity",
+            "no.nordicsemi.android.nrfmesh.keys.AddAppKeysActivity",
+            "no.nordicsemi.android.nrfmesh.scenes.ScenesActivity",
+            "no.nordicsemi.android.nrfmesh.node.PublicationSettingsActivity",
+            "no.nordicsemi.android.nrfmesh.node.NodeDetailsActivity",
+            "no.nordicsemi.android.nrfmesh.node.GenericLevelServerActivity",
+            "no.nordicsemi.android.nrfmesh.node.GenericOnOffServerActivity",
+            "no.nordicsemi.android.nrfmesh.node.SceneServerModelActivity",
+            "no.nordicsemi.android.nrfmesh.node.SceneSetupServerModelActivity",
+            "no.nordicsemi.android.nrfmesh.node.SensorServerActivity",
+            "no.nordicsemi.android.nrfmesh.node.VendorModelActivity",
+            "no.nordicsemi.android.nrfmesh.node.ConfigurationServerActivity",
+            "no.nordicsemi.android.nrfmesh.node.HeartbeatPublicationActivity",
+            "no.nordicsemi.android.nrfmesh.node.HeartbeatSubscriptionActivity",
+            "no.nordicsemi.android.nrfmesh.node.ConfigurationClientActivity",
+            "no.nordicsemi.android.nrfmesh.node.GenericModelConfigurationActivity",
+            "no.nordicsemi.android.nrfmesh.export.ExportNetworkActivity",
+            "no.nordicsemi.android.nrfmesh.SplashScreenActivity"
+        ]
+    },
+    "13_ankidroid-Anki-Android-2681.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.DeckPicker"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.PersonalDeckPicker",
+            "com.ichi2.anki.SharedDeckPicker",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.CramDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.CardEditor",
+            "com.ichi2.anki.Feedback",
+            "com.ichi2.charts.ChartBuilder",
+            "com.ichi2.widget.WidgetDialog",
+            "com.ichi2.veecheck.Notification"
+        ]
+    },
+    "24.5_ODK-Collect-v1.23.0.apk": {
+        "app_pkg": "org.odk.collect.android",
+        "app_acti": [
+            "org.odk.collect.android.activities.SplashScreenActivity",
+            "org.odk.collect.android.activities.SplashScreenActivity"
+        ],
+        "all_actis": [
+            "org.odk.collect.android.activities.MainMenuActivity",
+            "org.odk.collect.android.activities.ScannerWithFlashlightActivity",
+            "org.odk.collect.android.activities.FormEntryActivity",
+            "org.odk.collect.android.activities.NotificationActivity",
+            "org.odk.collect.android.activities.DrawActivity",
+            "org.odk.collect.android.activities.GoogleDriveActivity",
+            "org.odk.collect.android.activities.InstanceChooserList",
+            "org.odk.collect.android.activities.FormChooserList",
+            "org.odk.collect.android.activities.FormDownloadList",
+            "org.odk.collect.android.activities.FileManagerTabs",
+            "org.odk.collect.android.activities.GoogleSheetsUploaderActivity",
+            "org.odk.collect.android.activities.InstanceUploaderListActivity",
+            "org.odk.collect.android.activities.InstanceUploaderActivity",
+            "org.odk.collect.android.activities.AboutActivity",
+            "org.odk.collect.android.preferences.PreferencesActivity",
+            "org.odk.collect.android.preferences.AdminPreferencesActivity",
+            "org.odk.collect.android.activities.FormHierarchyActivity",
+            "org.odk.collect.android.activities.ViewOnlyFormHierarchyActivity",
+            "org.odk.collect.android.activities.GeoPointActivity",
+            "org.odk.collect.android.activities.GeoPointMapActivity",
+            "org.odk.collect.android.activities.GeoPolyActivity",
+            "org.odk.collect.android.activities.BearingActivity",
+            "org.odk.collect.android.activities.SplashScreenActivity",
+            "org.odk.collect.android.activities.CaptureSelfieActivity",
+            "org.odk.collect.android.activities.CaptureSelfieActivityNewApi",
+            "org.odk.collect.android.activities.WebViewActivity",
+            "org.odk.collect.android.activities.CaptureSelfieVideoActivity",
+            "org.odk.collect.android.activities.CaptureSelfieVideoActivityNewApi",
+            "org.odk.collect.android.activities.AndroidShortcuts",
+            "com.karumi.dexter.DexterActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "org.odk.collect.android.activities.FormEntryActivity",
+            "org.odk.collect.android.activities.InstanceChooserList",
+            "org.odk.collect.android.activities.FormChooserList",
+            "org.odk.collect.android.activities.FormDownloadList",
+            "org.odk.collect.android.activities.InstanceUploaderList",
+            "org.odk.collect.android.activities.InstanceUploaderActivity",
+            "org.odk.collect.android.activities.SplashScreenActivity"
+        ]
+    },
+    "2_mathisdt-sdbviewer-10.apk": {
+        "app_pkg": "org.zephyrsoft.sdbviewer",
+        "app_acti": [
+            "org.zephyrsoft.sdbviewer.SongListActivity"
+        ],
+        "all_actis": [
+            "org.zephyrsoft.sdbviewer.SongListActivity",
+            "org.zephyrsoft.sdbviewer.SongDetailActivity",
+            "org.zephyrsoft.sdbviewer.SettingsActivity",
+            "org.zephyrsoft.sdbviewer.AboutActivity",
+            "org.acra.dialog.CrashReportDialog"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: FATAL EXCEPTION: main
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: Process: com.rigid.birthdroid, PID: 20947
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: java.lang.RuntimeException: Unable to start service com.rigid.birthdroid.BirthdroidWidget$BirthdroidService@40b7482 with Intent { cmp=com.rigid.birthdroid/.BirthdroidWidget$BirthdroidService }: java.lang.NumberFormatException: For input string: "1145141919810893"
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:3314)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.ActivityThread.-wrap21(ActivityThread.java)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1565)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:154)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:866)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:756)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: Caused by: java.lang.NumberFormatException: For input string: "1145141919810893"
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at java.lang.Integer.parseInt(Integer.java:524)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at java.lang.Integer.parseInt(Integer.java:556)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at com.rigid.birthdroid.BirthdroidWidget$BirthdroidService.onStart(BirthdroidWidget.java:162)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.Service.onStartCommand(Service.java:509)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:3297)
+03-18 21:47:03.410 20947 20947 E AndroidRuntime: 	... 8 more
+

@@ -1,0 +1,1 @@
+Setting Foresight Period with any integer greater than 10 digits crashes application

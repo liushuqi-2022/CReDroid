@@ -1,0 +1,1 @@
+App crash when i allow access to my file

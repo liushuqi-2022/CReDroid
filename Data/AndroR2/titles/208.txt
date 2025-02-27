@@ -1,0 +1,1 @@
+App crashes when changing orientation while viewing reports

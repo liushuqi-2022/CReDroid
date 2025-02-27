@@ -1,0 +1,20 @@
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: FATAL EXCEPTION: main
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: Process: me.anon.grow, PID: 26098
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: java.lang.RuntimeException: Failure delivering result ResultInfo{who=android:fragment:1, request=1, result=0, data=null} to activity {me.anon.grow/me.anon.grow.PlantDetailsActivity}: java.lang.ArrayIndexOutOfBoundsException: length=10; index=-1
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread.deliverResults(ActivityThread.java:4053)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread.handleSendResult(ActivityThread.java:4096)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread.-wrap20(ActivityThread.java)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1516)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:154)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:866)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:756)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: Caused by: java.lang.ArrayIndexOutOfBoundsException: length=10; index=-1
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at java.util.ArrayList.get(ArrayList.java:413)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at me.anon.grow.fragment.PlantDetailsFragment.onActivityResult(PlantDetailsFragment.java:445)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.Activity.dispatchActivityResult(Activity.java:6939)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	at android.app.ActivityThread.deliverResults(ActivityThread.java:4049)
+03-19 19:33:12.476 26098 26098 E AndroidRuntime: 	... 9 more
+

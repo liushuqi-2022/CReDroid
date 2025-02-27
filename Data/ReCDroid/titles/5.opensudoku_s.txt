@@ -1,0 +1,1 @@
+Crash if rotate after deleting a game

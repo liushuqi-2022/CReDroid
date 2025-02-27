@@ -1,0 +1,25 @@
+02-10 14:01:34.148  2995  2995 E AndroidRuntime: FATAL EXCEPTION: main
+02-10 14:01:34.148  2995  2995 E AndroidRuntime: Process: com.fsck.k9, PID: 2995
+02-10 14:01:34.148  2995  2995 E AndroidRuntime: java.lang.IllegalArgumentException: Can't create ImapStore URI
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.mail.store.imap.ImapStoreUriCreator.create(ImapStoreUriCreator.java:68)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.mail.store.imap.ImapStore.createUri(ImapStore.java:73)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.mail.store.RemoteStore.createStoreUri(RemoteStore.java:131)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.activity.setup.AccountSetupBasics.onManualSetup(AccountSetupBasics.java:414)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.activity.setup.AccountSetupBasics.onNext(AccountSetupBasics.java:356)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.activity.setup.AccountSetupBasics.onClick(AccountSetupBasics.java:444)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.view.View.performClick(View.java:5204)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.view.View$PerformClick.run(View.java:21153)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:739)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:95)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime: Caused by: java.net.URISyntaxException: Malformed IPv4 address at index 0: mail.widw.123
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at java.net.URI.isValidHost(URI.java:567)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at java.net.URI.parseAuthority(URI.java:494)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at java.net.URI.parseURI(URI.java:409)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at java.net.URI.<init>(URI.java:289)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        at com.fsck.k9.mail.store.imap.ImapStoreUriCreator.create(ImapStoreUriCreator.java:66)
+02-10 14:01:34.148  2995  2995 E AndroidRuntime:        ... 14 more

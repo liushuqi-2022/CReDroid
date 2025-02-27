@@ -1,0 +1,28 @@
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: FATAL EXCEPTION: main
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: Process: pt.lighthouselabs.obd.reader, PID: 27965
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: java.lang.IllegalArgumentException: Service not registered: pt.lighthouselabs.obd.reader.activity.MainActivity$3@707da4c
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1289)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1511)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:648)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at pt.lighthouselabs.obd.reader.activity.MainActivity.doUnbindService(MainActivity.java:420)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at pt.lighthouselabs.obd.reader.activity.MainActivity.stopLiveData(MainActivity.java:310)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at pt.lighthouselabs.obd.reader.activity.MainActivity.onOptionsItemSelected(MainActivity.java:273)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.app.Activity.onMenuItemSelected(Activity.java:3204)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.policy.PhoneWindow.onMenuItemSelected(PhoneWindow.java:1217)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:761)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:152)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:904)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:894)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.view.menu.MenuPopup.onItemClick(MenuPopup.java:128)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.widget.AdapterView.performItemClick(AdapterView.java:310)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.widget.AbsListView.performItemClick(AbsListView.java:1155)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.widget.AbsListView$PerformClick.run(AbsListView.java:3120)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.widget.AbsListView$3.run(AbsListView.java:4035)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:751)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:154)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:866)
+03-19 15:35:34.907 27965 27965 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:756)
+

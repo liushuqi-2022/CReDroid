@@ -1,0 +1,1 @@
+App Crashes when clicking Scan Tag

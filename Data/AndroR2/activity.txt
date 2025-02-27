@@ -1,0 +1,460 @@
+{
+    "18.apk": {
+        "app_pkg": "es.usc.citius.servando.calendula",
+        "app_acti": [
+            "es.usc.citius.servando.calendula.activities.StartActivity"
+        ],
+        "all_actis": [
+            "es.usc.citius.servando.calendula.activities.MaterialIntroActivity",
+            "es.usc.citius.servando.calendula.activities.SchedulesHelpActivity",
+            "es.usc.citius.servando.calendula.activities.RoutinesActivity",
+            "es.usc.citius.servando.calendula.HomePagerActivity",
+            "es.usc.citius.servando.calendula.activities.MedicineInfoActivity",
+            "es.usc.citius.servando.calendula.activities.MedicinesActivity",
+            "es.usc.citius.servando.calendula.activities.MedicinesSearchActivity",
+            "es.usc.citius.servando.calendula.activities.ScheduleCreationActivity",
+            "es.usc.citius.servando.calendula.activities.StartActivity",
+            "es.usc.citius.servando.calendula.activities.SummaryCalendarActivity",
+            "es.usc.citius.servando.calendula.activities.CalendarActivity",
+            "es.usc.citius.servando.calendula.activities.ScanActivity",
+            "es.usc.citius.servando.calendula.activities.UpdateFromFileActivity",
+            "es.usc.citius.servando.calendula.activities.ConfirmSchedulesActivity",
+            "es.usc.citius.servando.calendula.activities.PatientsActivity",
+            "es.usc.citius.servando.calendula.activities.PatientDetailActivity",
+            "es.usc.citius.servando.calendula.activities.AboutActivity",
+            "es.usc.citius.servando.calendula.activities.ConfirmActivity",
+            "es.usc.citius.servando.calendula.activities.WebViewActivity",
+            "es.usc.citius.servando.calendula.activities.AllergiesActivity",
+            "es.usc.citius.servando.calendula.activities.AllergiesSearchActivity",
+            "es.usc.citius.servando.calendula.notifications.LockScreenAlarmActivity",
+            "es.usc.citius.servando.calendula.pinlock.PinLockActivity",
+            "es.usc.citius.servando.calendula.settings.CalendulaSettingsActivity",
+            "com.mikepenz.aboutlibraries.ui.LibsActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity"
+        ]
+    },
+    "276.apk": {
+        "app_pkg": "org.kiwix.kiwixmobile",
+        "app_acti": [
+            "org.kiwix.kiwixmobile.utils.SplashActivity"
+        ],
+        "all_actis": [
+            "org.kiwix.kiwixmobile.utils.SplashActivity",
+            "org.kiwix.kiwixmobile.KiwixMobileActivity",
+            "org.kiwix.kiwixmobile.zim_manager.ZimManageActivity",
+            "org.kiwix.kiwixmobile.settings.KiwixSettingsActivity",
+            "org.kiwix.kiwixmobile.search.SearchActivity",
+            "org.kiwix.kiwixmobile.bookmarks_view.BookmarksActivity"
+        ]
+    },
+    "2.apk": {
+        "app_pkg": "io.github.zwieback.familyfinance.debug",
+        "app_acti": [
+            "io.github.zwieback.familyfinance.business.dashboard.activity.DashboardActivity"
+        ],
+        "all_actis": [
+            "io.github.zwieback.familyfinance.business.dashboard.activity.DashboardActivity",
+            "io.github.zwieback.familyfinance.business.currency.activity.CurrencyActivity",
+            "io.github.zwieback.familyfinance.business.currency.activity.CurrencyEditActivity",
+            "io.github.zwieback.familyfinance.business.exchange_rate.activity.ExchangeRateActivity",
+            "io.github.zwieback.familyfinance.business.exchange_rate.activity.ExchangeRateEditActivity",
+            "io.github.zwieback.familyfinance.business.person.activity.PersonActivity",
+            "io.github.zwieback.familyfinance.business.person.activity.PersonEditActivity",
+            "io.github.zwieback.familyfinance.business.account.activity.AccountActivity",
+            "io.github.zwieback.familyfinance.business.account.activity.AccountEditActivity",
+            "io.github.zwieback.familyfinance.business.article.activity.IncomeArticleActivity",
+            "io.github.zwieback.familyfinance.business.article.activity.ExpenseArticleActivity",
+            "io.github.zwieback.familyfinance.business.article.activity.AllArticleActivity",
+            "io.github.zwieback.familyfinance.business.article.activity.IncomeArticleEditActivity",
+            "io.github.zwieback.familyfinance.business.article.activity.ExpenseArticleEditActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.IncomeOperationActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.IncomeOperationEditActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.ExpenseOperationActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.ExpenseOperationEditActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.TransferOperationActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.TransferOperationEditActivity",
+            "io.github.zwieback.familyfinance.business.operation.activity.FlowOfFundsOperationActivity",
+            "io.github.zwieback.familyfinance.business.template.activity.TemplateActivity",
+            "io.github.zwieback.familyfinance.business.template.activity.TemplateEditActivity",
+            "io.github.zwieback.familyfinance.business.sms_pattern.activity.SmsPatternActivity",
+            "io.github.zwieback.familyfinance.business.sms_pattern.activity.SmsPatternEditActivity",
+            "io.github.zwieback.familyfinance.business.preference.activity.SettingsActivity",
+            "com.nononsenseapps.filepicker.FilePickerActivity",
+            "io.github.zwieback.familyfinance.business.backup.activity.BackupActivity",
+            "io.github.zwieback.familyfinance.business.iconics.activity.IconicsActivity",
+            "io.github.zwieback.familyfinance.business.chart.activity.ChartActivity"
+        ]
+    },
+    "178.apk": {
+        "app_pkg": "org.secuso.privacyfriendlyactivitytracker",
+        "app_acti": [
+            "org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity"
+        ],
+        "all_actis": [
+            "org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity",
+            "org.secuso.privacyfriendlyactivitytracker.tutorial.TutorialActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.MainActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.AboutActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.HelpActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.PreferencesActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.MotivationAlertTextsActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.WalkingModesActivity",
+            "org.secuso.privacyfriendlyactivitytracker.activities.WalkingModeLearningActivity"
+        ]
+    },
+    "198.apk": {
+        "app_pkg": "org.y20k.transistor",
+        "app_acti": [
+            "org.y20k.transistor.MainActivity"
+        ],
+        "all_actis": [
+            "org.y20k.transistor.MainActivity"
+        ]
+    },
+    "208.apk": {
+        "app_pkg": "org.gnucash.android",
+        "app_acti": [
+            "org.gnucash.android.ui.account.AccountsActivity"
+        ],
+        "all_actis": [
+            "org.gnucash.android.ui.account.AccountsActivity",
+            "org.gnucash.android.ui.passcode.PasscodeLockScreenActivity",
+            "org.gnucash.android.ui.transaction.ScheduledActionsActivity",
+            "org.gnucash.android.ui.passcode.PasscodePreferenceActivity",
+            "org.gnucash.android.ui.transaction.TransactionsActivity",
+            "org.gnucash.android.ui.homescreen.WidgetConfigurationActivity",
+            "org.gnucash.android.ui.common.FormActivity",
+            "org.gnucash.android.ui.transaction.TransactionDetailActivity",
+            "org.gnucash.android.ui.report.ReportsActivity",
+            "org.gnucash.android.ui.budget.BudgetsActivity",
+            "org.gnucash.android.ui.wizard.FirstRunWizardActivity",
+            "org.gnucash.android.ui.settings.PreferenceActivity",
+            "com.dropbox.sync.android.DbxAuthActivity",
+            "com.dropbox.client2.android.AuthActivity",
+            "com.uservoice.uservoicesdk.activity.PortalActivity",
+            "com.uservoice.uservoicesdk.activity.ForumActivity",
+            "com.uservoice.uservoicesdk.activity.ArticleActivity",
+            "com.uservoice.uservoicesdk.activity.TopicActivity",
+            "com.uservoice.uservoicesdk.activity.ContactActivity",
+            "com.uservoice.uservoicesdk.activity.PostIdeaActivity"
+        ]
+    },
+    "137.apk": {
+        "app_pkg": "org.kiwix.kiwixmobile",
+        "app_acti": [
+            "org.kiwix.kiwixmobile.utils.SplashActivity"
+        ],
+        "all_actis": [
+            "org.kiwix.kiwixmobile.utils.SplashActivity",
+            "org.kiwix.kiwixmobile.KiwixMobileActivity",
+            "org.kiwix.kiwixmobile.zim_manager.ZimManageActivity",
+            "org.kiwix.kiwixmobile.settings.KiwixSettingsActivity",
+            "org.kiwix.kiwixmobile.search.SearchActivity",
+            "org.kiwix.kiwixmobile.bookmarks_view.BookmarksActivity",
+            "org.kiwix.kiwixmobile.KiwixErrorActivity"
+        ]
+    },
+    "168.apk": {
+        "app_pkg": "cgeo.geocaching",
+        "app_acti": [
+            "cgeo.geocaching.MainActivity"
+        ],
+        "all_actis": [
+            "cgeo.geocaching.MainActivity",
+            "cgeo.geocaching.SearchActivity",
+            "cgeo.geocaching.CachePopup",
+            "cgeo.geocaching.AboutActivity",
+            "cgeo.geocaching.helper.UsefulAppsActivity",
+            "cgeo.geocaching.twitter.TwitterAuthorizationActivity",
+            "cgeo.geocaching.EditWaypointActivity_",
+            "cgeo.geocaching.NavigateAnyPointActivity",
+            "cgeo.geocaching.address.AddressListActivity",
+            "cgeo.geocaching.settings.SettingsActivity",
+            "cgeo.geocaching.CacheListActivity",
+            "cgeo.geocaching.maps.MapActivity",
+            "cgeo.geocaching.maps.google.v1.GoogleMapActivity",
+            "cgeo.geocaching.maps.mapsforge.MapsforgeMapActivity",
+            "cgeo.geocaching.maps.mapsforge.v6.NewMap",
+            "cgeo.geocaching.staticmaps.StaticMapsActivity_",
+            "cgeo.geocaching.log.LogCacheActivity",
+            "cgeo.geocaching.log.LogTrackableActivity",
+            "cgeo.geocaching.ImagesActivity",
+            "cgeo.geocaching.CacheDetailActivity",
+            "cgeo.geocaching.TrackableActivity",
+            "cgeo.geocaching.CompassActivity",
+            "cgeo.geocaching.files.GpxFileListActivity",
+            "cgeo.geocaching.SelectMapfileActivity",
+            "cgeo.geocaching.WaypointPopup",
+            "cgeo.geocaching.files.SimpleDirChooser",
+            "cgeo.geocaching.ImageSelectActivity",
+            "cgeo.geocaching.connector.oc.OCAuthorizationActivity",
+            "cgeo.geocaching.CreateShortcutActivity",
+            "cgeo.geocaching.activity.SimpleWebviewActivity",
+            "cgeo.geocaching.filter.FilterActivity_",
+            "cgeo.geocaching.connector.trackable.GeokretyAuthorizationActivity",
+            "cgeo.geocaching.settings.GCAuthorizationActivity",
+            "cgeo.geocaching.settings.ECAuthorizationActivity",
+            "cgeo.geocaching.settings.GCVoteAuthorizationActivity",
+            "cgeo.geocaching.connector.gc.PocketQueryListActivity",
+            "cgeo.geocaching.maps.mapsforge.v6.RenderThemeSettings",
+            "com.google.android.gms.appinvite.PreviewActivity",
+            "com.jakewharton.processphoenix.ProcessPhoenix",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ]
+    },
+    "50.apk": {
+        "app_pkg": "com.asuc.asucmobile",
+        "app_acti": [
+            "com.asuc.asucmobile.main.SplashActivity"
+        ],
+        "all_actis": [
+            "com.pushwoosh.richpages.RichPageActivity",
+            "com.pushwoosh.MessageActivity",
+            "com.pushwoosh.PushHandlerActivity",
+            "com.asuc.asucmobile.main.SplashActivity",
+            "com.asuc.asucmobile.main.MainActivity",
+            "com.asuc.asucmobile.main.OpenLibraryActivity",
+            "com.asuc.asucmobile.main.OpenGymActivity",
+            "com.asuc.asucmobile.main.OpenDiningHallActivity",
+            "com.asuc.asucmobile.main.OpenCafeActivity",
+            "com.asuc.asucmobile.main.OpenResourceActivity",
+            "com.asuc.asucmobile.main.PopUpActivity",
+            "com.asuc.asucmobile.main.RouteSelected",
+            "com.asuc.asucmobile.main.RouteSelectActivity",
+            "com.asuc.asucmobile.main.CreditsDialog",
+            "com.google.android.gms.ads.AdActivity",
+            "com.google.android.gms.appinvite.PreviewActivity",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.firebase.auth.internal.FederatedSignInActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "com.google.android.gms.tagmanager.TagManagerPreviewActivity",
+            "com.pushwoosh.inapp.WebActivity",
+            "com.pushwoosh.internal.utils.PermissionActivity"
+        ]
+    },
+    "97.apk": {
+        "app_pkg": "org.osmdroid",
+        "app_acti": [
+            "org.osmdroid.intro.IntroActivity",
+            "com.squareup.leakcanary.internal.DisplayLeakActivity"
+        ],
+        "all_actis": [
+            "org.osmdroid.intro.IntroActivity",
+            "org.osmdroid.MainActivity",
+            "org.osmdroid.StarterMapActivity",
+            "org.osmdroid.samples.SampleWithMinimapItemizedoverlay",
+            "org.osmdroid.samples.SampleExtensive",
+            "org.osmdroid.samples.SampleWithMinimapZoomcontrols",
+            "org.osmdroid.samples.SampleWithTilesOverlay",
+            "org.osmdroid.samples.SampleWithTilesOverlayAndCustomTileSource",
+            "org.osmdroid.BugsTestingActivity",
+            "org.osmdroid.debug.browser.CacheBrowserActivity",
+            "org.osmdroid.debug.CacheAnalyzerActivity",
+            "org.osmdroid.ExtraSamplesActivity",
+            "org.osmdroid.bugtestfragments.WeathForceActivity",
+            "org.osmdroid.PreferenceActivity",
+            "org.osmdroid.LicenseActivity",
+            "org.osmdroid.diag.DiagnosticsActivity",
+            "com.squareup.leakcanary.internal.DisplayLeakActivity",
+            "com.squareup.leakcanary.internal.RequestStoragePermissionActivity"
+        ]
+    },
+    "253.apk": {
+        "app_pkg": "org.mozilla.focus",
+        "app_acti": [
+            "org.mozilla.focus.activity.MainActivity"
+        ],
+        "all_actis": [
+            "org.mozilla.focus.activity.IntentReceiverActivity",
+            "org.mozilla.focus.activity.MainActivity",
+            "org.mozilla.focus.activity.CustomTabActivity",
+            "org.mozilla.focus.activity.InfoActivity",
+            "org.mozilla.focus.activity.TextActionActivity",
+            "org.mozilla.focus.activity.SettingsActivity",
+            "org.mozilla.focus.activity.InstallFirefoxActivity",
+            "org.mozilla.focus.activity.EraseShortcutActivity",
+            "org.mozilla.focus.activity.EraseAndOpenShortcutActivity",
+            "mozilla.components.lib.crash.prompt.CrashReporterActivity",
+            "com.jakewharton.processphoenix.ProcessPhoenix"
+        ]
+    },
+    "23.apk": {
+        "app_pkg": "org.secuso.privacyfriendlyweather",
+        "app_acti": [
+            "org.secuso.privacyfriendlyweather.activities.SplashActivity"
+        ],
+        "all_actis": [
+            "org.secuso.privacyfriendlyweather.activities.SplashActivity",
+            "org.secuso.privacyfriendlyweather.activities.MainActivity",
+            "org.secuso.privacyfriendlyweather.activities.ForecastCityActivity",
+            "org.secuso.privacyfriendlyweather.activities.RadiusSearchActivity",
+            "org.secuso.privacyfriendlyweather.activities.RadiusSearchResultActivity",
+            "org.secuso.privacyfriendlyweather.activities.AboutActivity",
+            "org.secuso.privacyfriendlyweather.activities.HelpActivity",
+            "org.secuso.privacyfriendlyweather.activities.SettingsActivity",
+            "org.secuso.privacyfriendlyweather.firststart.TutorialActivity",
+            "org.secuso.privacyfriendlyweather.widget.WeatherWidgetConfigureActivity",
+            "org.secuso.privacyfriendlyweather.widget.WeatherWidgetThreeDayForecastConfigureActivity",
+            "org.secuso.privacyfriendlyweather.widget.WeatherWidgetFiveDayForecastConfigureActivity"
+        ]
+    },
+    "162.apk": {
+        "app_pkg": "com.fsck.k9",
+        "app_acti": [
+            "com.fsck.k9.activity.Accounts"
+        ],
+        "all_actis": [
+            "com.fsck.k9.activity.Accounts",
+            "com.fsck.k9.activity.setup.Prefs",
+            "com.fsck.k9.activity.setup.WelcomeMessage",
+            "com.fsck.k9.activity.setup.OpenPgpAppSelectDialog",
+            "com.fsck.k9.activity.setup.FontSizeSettings",
+            "com.fsck.k9.activity.setup.AccountSetupBasics",
+            "com.fsck.k9.activity.setup.AccountSetupAccountType",
+            "com.fsck.k9.activity.setup.AccountSetupIncoming",
+            "com.fsck.k9.activity.setup.AccountSetupComposition",
+            "com.fsck.k9.activity.setup.AccountSetupOutgoing",
+            "com.fsck.k9.activity.setup.AccountSetupOptions",
+            "com.fsck.k9.activity.setup.AccountSetupNames",
+            "com.fsck.k9.activity.ChooseAccount",
+            "com.fsck.k9.activity.ChooseFolder",
+            "com.fsck.k9.activity.ChooseIdentity",
+            "com.fsck.k9.activity.ManageIdentities",
+            "com.fsck.k9.activity.EditIdentity",
+            "com.fsck.k9.activity.NotificationDeleteConfirmation",
+            "com.fsck.k9.activity.setup.AccountSetupCheckSettings",
+            "com.fsck.k9.activity.setup.AccountSettings",
+            "com.fsck.k9.activity.setup.FolderSettings",
+            "com.fsck.k9.activity.FolderList",
+            "com.fsck.k9.activity.MessageList",
+            "com.fsck.k9.activity.MessageCompose",
+            "com.fsck.k9.activity.Search",
+            "com.fsck.k9.activity.LauncherShortcuts",
+            "com.fsck.k9.activity.EmailAddressList",
+            "com.fsck.k9.activity.UnreadWidgetConfiguration",
+            "com.fsck.k9.activity.UpgradeDatabases"
+        ]
+    },
+    "11.apk": {
+        "app_pkg": "com.droidheat.musicplayer",
+        "app_acti": [
+            "com.droidheat.musicplayer.SplashActivity"
+        ],
+        "all_actis": [
+            "com.droidheat.musicplayer.HomeActivity",
+            "com.droidheat.musicplayer.PlayActivity",
+            "com.droidheat.musicplayer.SearchActivity",
+            "com.droidheat.musicplayer.TimerActivity",
+            "com.droidheat.musicplayer.SplashActivity",
+            "com.droidheat.musicplayer.IntentPlayActivity",
+            "com.droidheat.musicplayer.EqualizerActivity",
+            "com.droidheat.musicplayer.SettingsActivity",
+            "com.droidheat.musicplayer.GlobalDetailActivity"
+        ]
+    },
+    "164.apk": {
+        "app_pkg": "com.fsck.k9",
+        "app_acti": [
+            "com.fsck.k9.activity.MessageList"
+        ],
+        "all_actis": [
+            "com.fsck.k9.ui.onboarding.OnboardingActivity",
+            "com.fsck.k9.ui.settings.account.OpenPgpAppSelectDialog",
+            "com.fsck.k9.activity.setup.FontSizeSettings",
+            "com.fsck.k9.activity.setup.AccountSetupBasics",
+            "com.fsck.k9.activity.setup.AccountSetupAccountType",
+            "com.fsck.k9.activity.setup.AccountSetupIncoming",
+            "com.fsck.k9.activity.setup.AccountSetupComposition",
+            "com.fsck.k9.activity.setup.AccountSetupOutgoing",
+            "com.fsck.k9.activity.setup.AccountSetupOptions",
+            "com.fsck.k9.activity.setup.AccountSetupNames",
+            "com.fsck.k9.activity.ChooseAccount",
+            "com.fsck.k9.activity.ChooseFolder",
+            "com.fsck.k9.activity.ChooseIdentity",
+            "com.fsck.k9.activity.ManageIdentities",
+            "com.fsck.k9.activity.EditIdentity",
+            "com.fsck.k9.activity.NotificationDeleteConfirmation",
+            "com.fsck.k9.activity.setup.AccountSetupCheckSettings",
+            "com.fsck.k9.activity.setup.FolderSettings",
+            "com.fsck.k9.ui.endtoend.AutocryptKeyTransferActivity",
+            "com.fsck.k9.activity.MessageList",
+            "com.fsck.k9.activity.MessageCompose",
+            "com.fsck.k9.activity.Search",
+            "com.fsck.k9.activity.LauncherShortcuts",
+            "com.fsck.k9.widget.unread.UnreadWidgetConfigurationActivity",
+            "com.fsck.k9.activity.UpgradeDatabases",
+            "com.fsck.k9.activity.ManageFoldersActivity",
+            "com.fsck.k9.ui.settings.SettingsActivity",
+            "com.fsck.k9.ui.settings.general.GeneralSettingsActivity",
+            "com.fsck.k9.ui.settings.account.AccountSettingsActivity",
+            "com.fsck.k9.activity.FolderList",
+            "com.fsck.k9.activity.Accounts"
+        ]
+    },
+    "7.apk": {
+        "app_pkg": "de.vier_bier.habpanelviewer",
+        "app_acti": [
+            "de.vier_bier.habpanelviewer.MainActivity"
+        ],
+        "all_actis": [
+            "de.vier_bier.habpanelviewer.MainActivity",
+            "de.vier_bier.habpanelviewer.preferences.PreferenceActivity",
+            "de.vier_bier.habpanelviewer.status.StatusInfoActivity",
+            "de.vier_bier.habpanelviewer.help.HelpActivity",
+            "de.vier_bier.habpanelviewer.command.log.CommandLogActivity",
+            "de.vier_bier.habpanelviewer.EmptyActivity",
+            "de.vier_bier.habpanelviewer.IntroActivity",
+            "com.jakewharton.processphoenix.ProcessPhoenix"
+        ]
+    },
+    "129.apk": {
+        "app_pkg": "org.shadowice.flocke.andotp.dev",
+        "app_acti": [
+            "org.shadowice.flocke.andotp.Activities.MainActivity"
+        ],
+        "all_actis": [
+            "org.shadowice.flocke.andotp.Activities.MainActivity",
+            "org.shadowice.flocke.andotp.Activities.AboutActivity",
+            "org.shadowice.flocke.andotp.Activities.AuthenticateActivity",
+            "org.shadowice.flocke.andotp.Activities.BackupActivity",
+            "org.shadowice.flocke.andotp.Activities.IntroScreenActivity",
+            "org.shadowice.flocke.andotp.Activities.SettingsActivity",
+            "org.shadowice.flocke.andotp.Activities.SecureCaptureActivity",
+            "org.shadowice.flocke.andotp.Activities.PanicResponderActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity",
+            "com.mikepenz.aboutlibraries.ui.LibsActivity"
+        ]
+    },
+    "186.apk": {
+        "app_pkg": "com.hexforhn.hex",
+        "app_acti": [
+            "com.hexforhn.hex.activity.frontpage.FrontPageActivity"
+        ],
+        "all_actis": [
+            "com.hexforhn.hex.activity.frontpage.FrontPageActivity",
+            "com.hexforhn.hex.activity.story.StoryActivity"
+        ]
+    },
+    "271.apk": {
+        "app_pkg": "com.beemdevelopment.aegis",
+        "app_acti": [
+            "com.beemdevelopment.aegis.ui.MainActivity"
+        ],
+        "all_actis": [
+            "com.beemdevelopment.aegis.ui.TransferEntriesActivity",
+            "com.beemdevelopment.aegis.ui.AboutActivity",
+            "com.beemdevelopment.aegis.ui.SelectEntriesActivity",
+            "com.beemdevelopment.aegis.ui.MainActivity",
+            "com.beemdevelopment.aegis.ui.ScannerActivity",
+            "com.beemdevelopment.aegis.ui.EditEntryActivity",
+            "com.beemdevelopment.aegis.ui.IntroActivity",
+            "com.beemdevelopment.aegis.ui.AuthActivity",
+            "com.beemdevelopment.aegis.ui.PreferencesActivity",
+            "com.beemdevelopment.aegis.ui.SlotManagerActivity",
+            "com.beemdevelopment.aegis.ui.GroupManagerActivity",
+            "androidx.biometric.DeviceCredentialHandlerActivity"
+        ]
+    }
+}

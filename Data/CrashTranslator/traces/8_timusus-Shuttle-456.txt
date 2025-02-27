@@ -1,0 +1,19 @@
+02-16 18:26:10.383  3700  3700 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:26:10.383  3700  3700 E AndroidRuntime: Process: another.music.player, PID: 3700
+02-16 18:26:10.383  3700  3700 E AndroidRuntime: java.lang.IllegalStateException: CreatePlaylistDialog parent must implement OnSavePlaylistListener
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.ui.screens.e.b.a$g$1$a.a(SourceFile:121)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.ui.screens.e.b.a$g$1$a.invoke(SourceFile:42)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.utils.d.c.a(SourceFile:160)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.utils.d.c.a(SourceFile:38)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.utils.d.c$b.a(SourceFile:132)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.simplecity.amp_library.utils.d.c$b.accept(SourceFile:38)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at c.b.f.d.g.c_(SourceFile:62)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at c.b.f.e.f.n$a.run(SourceFile:81)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at c.b.a.b.b$b.run(SourceFile:119)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:739)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:95)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:26:10.383  3700  3700 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)

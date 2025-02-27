@@ -1,0 +1,38 @@
+E/AndroidRuntime(10496): FATAL EXCEPTION: main
+E/AndroidRuntime(10496): Process: org.secuso.privacyfriendlyactivitytracker, PID: 10496
+E/AndroidRuntime(10496): java.lang.RuntimeException: Unable to start activity ComponentInfo{org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.Sp
+lashActivity}: android.content.res.Resources$NotFoundException: File res/drawable/abc_ic_ab_back_material.xml from drawable resource ID #0x7f020013
+E/AndroidRuntime(10496):        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(10496):        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(10496):        at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(10496):        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(10496):        at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(10496):        at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(10496):        at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(10496):        at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(10496):        at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(10496):        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(10496):        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(10496):        at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(10496): Caused by: android.content.res.Resources$NotFoundException: File res/drawable/abc_ic_ab_back_material.xml from drawable resource ID #0x7f020013
+E/AndroidRuntime(10496):        at android.content.res.Resources.loadDrawable(Resources.java:2101)
+E/AndroidRuntime(10496):        at android.content.res.Resources.getDrawable(Resources.java:700)
+E/AndroidRuntime(10496):        at android.support.v4.content.ContextCompat.getDrawable(ContextCompat.java:354)
+E/AndroidRuntime(10496):        at android.support.v7.widget.AppCompatDrawableManager.getDrawable(AppCompatDrawableManager.java:193)
+E/AndroidRuntime(10496):        at android.support.v7.widget.AppCompatDrawableManager.getDrawable(AppCompatDrawableManager.java:181)
+E/AndroidRuntime(10496):        at android.support.v7.widget.AppCompatDrawableManager.checkVectorDrawableSetup(AppCompatDrawableManager.java:689)
+E/AndroidRuntime(10496):        at android.support.v7.widget.AppCompatDrawableManager.getDrawable(AppCompatDrawableManager.java:186)
+E/AndroidRuntime(10496):        at android.support.v7.widget.TintTypedArray.getDrawableIfKnown(TintTypedArray.java:77)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegateImplBase.<init>(AppCompatDelegateImplBase.java:83)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegateImplV7.<init>(AppCompatDelegateImplV7.java:146)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegateImplV11.<init>(AppCompatDelegateImplV11.java:28)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegateImplV14.<init>(AppCompatDelegateImplV14.java:41)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegate.create(AppCompatDelegate.java:193)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatDelegate.create(AppCompatDelegate.java:173)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatActivity.getDelegate(AppCompatActivity.java:511)
+E/AndroidRuntime(10496):        at android.support.v7.app.AppCompatActivity.onCreate(AppCompatActivity.java:71)
+E/AndroidRuntime(10496):        at org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity.onCreate(SplashActivity.java:17)
+E/AndroidRuntime(10496):        at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(10496):        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(10496):        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(10496):        ... 11 more

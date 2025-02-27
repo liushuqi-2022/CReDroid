@@ -1,0 +1,47 @@
+02-16 18:49:00.803  5783  5783 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:49:00.803  5783  5783 E AndroidRuntime: Process: org.secuso.privacyfriendlyactivitytracker, PID: 5783
+02-16 18:49:00.803  5783  5783 E AndroidRuntime: android.view.InflateException: Binary XML file line #25: Binary XML file line #25: Error inflating class android.support.design.widget.TextInputLayout
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.inflate(LayoutInflater.java:539)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at org.secuso.privacyfriendlyactivitytracker.fragments.DailyReportFragment.onWalkingModeClicked(DailyReportFragment.java:587)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at org.secuso.privacyfriendlyactivitytracker.adapters.ReportAdapter$SummaryViewHolder.onMenuItemClick(ReportAdapter.java:490)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at androidx.appcompat.widget.PopupMenu$1.onMenuItemSelected(PopupMenu.java:113)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at androidx.appcompat.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:834)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at androidx.appcompat.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:158)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at androidx.appcompat.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:985)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at androidx.appcompat.view.menu.MenuPopup.onItemClick(MenuPopup.java:128)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.widget.AdapterView.performItemClick(AdapterView.java:310)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.widget.AbsListView.performItemClick(AbsListView.java:1145)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.widget.AbsListView$PerformClick.run(AbsListView.java:3066)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.widget.AbsListView$3.run(AbsListView.java:3903)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:739)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:95)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime: Caused by: android.view.InflateException: Binary XML file line #25: Error inflating class android.support.design.widget.TextInputLayout
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:776)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:704)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.rInflate(LayoutInflater.java:835)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.inflate(LayoutInflater.java:515)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        ... 20 more
+02-16 18:49:00.803  5783  5783 E AndroidRuntime: Caused by: java.lang.ClassNotFoundException: Didn't find class "android.support.design.widget.TextInputLayout" on path: DexPathList[[zip file "/data/app/org.secuso.privacyfriendlyactivitytracker-1/base.apk"],nativeLibraryDirectories=[/data/app/org.secuso.privacyfriendlyactivitytracker-1/lib/x86, /vendor/lib, /system/lib]]
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.createView(LayoutInflater.java:583)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:764)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        ... 24 more
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        Suppressed: java.lang.ClassNotFoundException: android.support.design.widget.TextInputLayout
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:                at java.lang.Class.classForName(Native Method)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:                at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:                at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:                at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:                ... 27 more
+02-16 18:49:00.803  5783  5783 E AndroidRuntime:        Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-16 18:49:00.819   717   795 E InputDispatcher: channel '4d5ce5d org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+02-16 18:49:00.819   717   795 E InputDispatcher: channel '1d1b491 PopupWindow:733c800 (server)' ~ Channel is unrecoverably broken and will be disposed!

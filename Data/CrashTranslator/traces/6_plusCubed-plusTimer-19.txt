@@ -1,0 +1,28 @@
+02-16 18:19:35.341  3457  3457 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:19:35.341  3457  3457 E AndroidRuntime: Process: com.pluscubed.plustimer, PID: 3457
+02-16 18:19:35.341  3457  3457 E AndroidRuntime: java.lang.RuntimeException: Unable to resume activity {com.pluscubed.plustimer/com.pluscubed.plustimer.ui.CurrentSessionActivity}: java.lang.NumberFormatException: Invalid int: "999999999999999"
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.ActivityThread.performResumeActivity(ActivityThread.java:3241)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3272)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1488)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:102)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime: Caused by: java.lang.NumberFormatException: Invalid int: "999999999999999"
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at java.lang.Integer.invalidInt(Integer.java:138)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at java.lang.Integer.parse(Integer.java:413)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at java.lang.Integer.parseInt(Integer.java:367)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at java.lang.Integer.parseInt(Integer.java:334)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at com.pluscubed.plustimer.ui.CurrentSessionTimerFragment.initSharedPrefs(CurrentSessionTimerFragment.java:438)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at com.pluscubed.plustimer.ui.CurrentSessionTimerFragment.onResume(CurrentSessionTimerFragment.java:412)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.Fragment.performResume(Fragment.java:2263)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1008)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1130)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.FragmentManagerImpl.dispatchResume(FragmentManager.java:1963)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.FragmentController.dispatchResume(FragmentController.java:174)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.Activity.performResume(Activity.java:6376)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        at android.app.ActivityThread.performResumeActivity(ActivityThread.java:3224)
+02-16 18:19:35.341  3457  3457 E AndroidRuntime:        ... 8 more

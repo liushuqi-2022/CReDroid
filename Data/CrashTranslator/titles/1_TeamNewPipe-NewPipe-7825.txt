@@ -1,0 +1,1 @@
+UI error crash when rotating screen while "add to playlist" modal is open

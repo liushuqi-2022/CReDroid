@@ -1,0 +1,1 @@
+App is crashing if we want to change photo of client

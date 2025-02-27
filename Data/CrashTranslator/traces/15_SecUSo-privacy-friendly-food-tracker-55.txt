@@ -1,0 +1,21 @@
+02-16 18:38:25.689  4991  4991 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:38:25.689  4991  4991 E AndroidRuntime: Process: org.secuso.privacyfriendlyfoodtracker, PID: 4991
+02-16 18:38:25.689  4991  4991 E AndroidRuntime: java.lang.RuntimeException: Unable to resume activity {org.secuso.privacyfriendlyfoodtracker/org.secuso.privacyfriendlyfoodtracker.activities.OverviewActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'org.secuso.privacyfriendlyfoodtracker.activities.adapter.DatabaseEntry[] org.secuso.privacyfriendlyfoodtracker.activities.adapter.DatabaseFacade.getEntriesForDay(java.util.Date)' on a null object reference
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.performResumeActivity(ActivityThread.java:3241)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3272)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2611)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.-wrap11(ActivityThread.java)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1444)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:102)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'org.secuso.privacyfriendlyfoodtracker.activities.adapter.DatabaseEntry[] org.secuso.privacyfriendlyfoodtracker.activities.adapter.DatabaseFacade.getEntriesForDay(java.util.Date)' on a null object reference
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at org.secuso.privacyfriendlyfoodtracker.activities.OverviewActivity.refreshTotalCalorieCounter(OverviewActivity.java:276)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at org.secuso.privacyfriendlyfoodtracker.activities.OverviewActivity.onResume(OverviewActivity.java:101)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1258)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.Activity.performResume(Activity.java:6355)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        at android.app.ActivityThread.performResumeActivity(ActivityThread.java:3224)
+02-16 18:38:25.689  4991  4991 E AndroidRuntime:        ... 10 more

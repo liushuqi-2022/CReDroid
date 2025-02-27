@@ -1,0 +1,24 @@
+E/AndroidRuntime( 6623): FATAL EXCEPTION: main
+E/AndroidRuntime( 6623): java.lang.RuntimeException: Unable to start activity ComponentInfo{cz.romario.opensudoku/cz.romario.opensudoku.gui.SudokuListActivity}: java.lang.NullPointerException
+E/AndroidRuntime( 6623): at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2180)
+E/AndroidRuntime( 6623): at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2230)
+E/AndroidRuntime( 6623): at android.app.ActivityThread.handleRelaunchActivity(ActivityThread.java:3692)
+E/AndroidRuntime( 6623): at android.app.ActivityThread.access$700(ActivityThread.java:141)
+E/AndroidRuntime( 6623): at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1240)
+E/AndroidRuntime( 6623): at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime( 6623): at android.os.Looper.loop(Looper.java:137)
+E/AndroidRuntime( 6623): at android.app.ActivityThread.main(ActivityThread.java:5041)
+E/AndroidRuntime( 6623): at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6623): at java.lang.reflect.Method.invoke(Method.java:511)
+E/AndroidRuntime( 6623): at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:793)
+E/AndroidRuntime( 6623): at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:560)
+E/AndroidRuntime( 6623): at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6623): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 6623): at cz.romario.opensudoku.gui.SudokuListActivity.onPrepareDialog(SudokuListActivity.java:333)
+E/AndroidRuntime( 6623): at android.app.Activity.onPrepareDialog(Activity.java:3007)
+E/AndroidRuntime( 6623): at android.app.Activity.restoreManagedDialogs(Activity.java:968)
+E/AndroidRuntime( 6623): at android.app.Activity.performRestoreInstanceState(Activity.java:911)
+E/AndroidRuntime( 6623): at android.app.Instrumentation.callActivityOnRestoreInstanceState(Instrumentation.java:1131)
+E/AndroidRuntime( 6623): at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2158)
+E/AndroidRuntime( 6623): ... 12 more
+W/ActivityManager( 517): Force finishing activity cz.romario.opensudoku/.gui.SudokuListActivity

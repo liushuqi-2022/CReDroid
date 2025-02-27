@@ -1,0 +1,1 @@
+App stops after opening "about" twice

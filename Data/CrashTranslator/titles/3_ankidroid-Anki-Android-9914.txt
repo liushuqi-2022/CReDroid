@@ -1,0 +1,1 @@
+v2.16alpha33 crashes when changing Decks in Card Browser and Statistics

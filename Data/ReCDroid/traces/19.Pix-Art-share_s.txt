@@ -1,0 +1,25 @@
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: FATAL EXCEPTION: main
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: Process: de.pixart.openmessenger, PID: 24219
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String de.pixart.messenger.entities.Account.getShareableUri()' on a null object reference
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at de.pixart.messenger.ui.EditAccountActivity.shareLink(EditAccountActivity.java:771)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at de.pixart.messenger.ui.EditAccountActivity.onOptionsItemSelected(EditAccountActivity.java:743)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.app.Activity.onMenuItemSelected(Activity.java:3204)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.policy.PhoneWindow.onMenuItemSelected(PhoneWindow.java:1217)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:761)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.SubMenuBuilder.dispatchMenuItemSelected(SubMenuBuilder.java:82)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:152)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:904)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:894)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.view.menu.MenuPopup.onItemClick(MenuPopup.java:128)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.widget.AdapterView.performItemClick(AdapterView.java:310)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.widget.AbsListView.performItemClick(AbsListView.java:1155)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.widget.AbsListView$PerformClick.run(AbsListView.java:3120)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.widget.AbsListView$3.run(AbsListView.java:4035)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:751)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:154)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:866)
+03-19 15:27:08.139 24219 24219 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:756)
+

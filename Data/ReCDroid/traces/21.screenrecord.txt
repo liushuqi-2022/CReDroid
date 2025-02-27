@@ -1,0 +1,21 @@
+E/AndroidRuntime( 4023): FATAL EXCEPTION: main
+E/AndroidRuntime( 4023): Process: com.orpheusdroid.screenrecorder, PID: 4023
+E/AndroidRuntime( 4023): java.lang.RuntimeException: Unable to stop activity {com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.MainActivity}: java.lang.IllegalStateException: must call onStart before onStop
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:3344)
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:3390)
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread.access$1100(ActivityThread.java:144)
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1307)
+E/AndroidRuntime( 4023): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 4023): 	at android.os.Looper.loop(Looper.java:135)
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+E/AndroidRuntime( 4023): 	at java.lang.reflect.Method.invoke(Native Method)
+E/AndroidRuntime( 4023): 	at java.lang.reflect.Method.invoke(Method.java:372)
+E/AndroidRuntime( 4023): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+E/AndroidRuntime( 4023): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+E/AndroidRuntime( 4023): Caused by: java.lang.IllegalStateException: must call onStart before onStop
+E/AndroidRuntime( 4023): 	at ly.count.android.sdk.Countly.onStop(Countly.java:469)
+E/AndroidRuntime( 4023): 	at com.orpheusdroid.screenrecorder.MainActivity.onStop(MainActivity.java:419)
+E/AndroidRuntime( 4023): 	at android.app.Instrumentation.callActivityOnStop(Instrumentation.java:1261)
+E/AndroidRuntime( 4023): 	at android.app.Activity.performStop(Activity.java:6089)
+E/AndroidRuntime( 4023): 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:3341)
+E/AndroidRuntime( 4023): 	... 10 more

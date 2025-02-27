@@ -1,0 +1,20 @@
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler: uncaughtException main
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler: java.lang.Exception: java.lang.NoSuchMethodError: No direct method <init>(Landroid/content/Context;Ljava/lang/String;)V in class Landroid/app/Notification$Builder; or its super classes (declaration of 'android.app.Notification$Builder' appears in /system/framework/framework.jar)
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler:      at menion.android.whereyougo.utils.Logger.e(Logger.java:50)
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler:      at menion.android.whereyougo.utils.ExceptionHandler.uncaughtException(ExceptionHandler.java:27)
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler:      at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:693)
+02-16 18:37:47.041  4929  4929 E UncaughtExceptionHandler:      at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:690)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:37:47.050  4929  4929 E AndroidRuntime: Process: menion.android.whereyougo, PID: 4929
+02-16 18:37:47.050  4929  4929 E AndroidRuntime: java.lang.NoSuchMethodError: No direct method <init>(Landroid/content/Context;Ljava/lang/String;)V in class Landroid/app/Notification$Builder; or its super classes (declaration of 'android.app.Notification$Builder' appears in /system/framework/framework.jar)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at menion.android.whereyougo.utils.NotificationService.startNotificationService(NotificationService.java:81)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at menion.android.whereyougo.utils.NotificationService.onStartCommand(NotificationService.java:55)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:3140)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.app.ActivityThread.-wrap17(ActivityThread.java)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1554)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:102)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:37:47.050  4929  4929 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)

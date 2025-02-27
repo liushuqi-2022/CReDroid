@@ -1,0 +1,727 @@
+{
+    "7.anymemo_deafult_s.apk": {
+        "app_pkg": "org.liberty.android.fantastischmemo",
+        "app_acti": [
+            "org.liberty.android.fantastischmemo.ui.AnyMemo"
+        ],
+        "all_actis": [
+            "org.liberty.android.fantastischmemo.ui.AnyMemo",
+            "org.liberty.android.fantastischmemo.MainTabs",
+            "org.liberty.android.fantastischmemo.InstrumentationActivity",
+            "org.liberty.android.fantastischmemo.downloader.DownloaderAnyMemo",
+            "org.liberty.android.fantastischmemo.downloader.DownloaderFE",
+            "org.liberty.android.fantastischmemo.downloader.DownloaderSS",
+            "com.example.android.apis.graphics.FingerPaint",
+            "org.liberty.android.fantastischmemo.downloader.FELauncher",
+            "org.liberty.android.fantastischmemo.downloader.FEUpload",
+            "org.liberty.android.fantastischmemo.downloader.FEDirectory",
+            "org.liberty.android.fantastischmemo.downloader.QuizletLauncher",
+            "org.liberty.android.fantastischmemo.downloader.DownloaderQuizlet",
+            "org.liberty.android.fantastischmemo.downloader.DropboxLauncher",
+            "org.liberty.android.fantastischmemo.downloader.DownloaderDropbox",
+            "org.liberty.android.fantastischmemo.downloader.DropboxUploader",
+            "org.liberty.android.fantastischmemo.ui.CardEditor",
+            "org.liberty.android.fantastischmemo.ui.MemoScreen",
+            "org.liberty.android.fantastischmemo.ui.EditScreen",
+            "org.liberty.android.fantastischmemo.ui.DetailScreen",
+            "org.liberty.android.fantastischmemo.ui.SettingsScreen",
+            "org.liberty.android.fantastischmemo.ui.ListEditScreen",
+            "org.liberty.android.fantastischmemo.ui.FileBrowserActivity",
+            "org.liberty.android.fantastischmemo.ui.OptionScreen",
+            "org.liberty.android.fantastischmemo.ui.DatabaseMerger",
+            "org.liberty.android.fantastischmemo.ui.ShareScreen",
+            "org.liberty.android.fantastischmemo.downloader.FEOauth"
+        ]
+    },
+    "24.obdreader_s.apk": {
+        "app_pkg": "pt.lighthouselabs.obd.reader",
+        "app_acti": [
+            "pt.lighthouselabs.obd.reader.activity.MainActivity"
+        ],
+        "all_actis": [
+            "pt.lighthouselabs.obd.reader.activity.MainActivity",
+            "pt.lighthouselabs.obd.reader.activity.ConfigActivity",
+            "pt.lighthouselabs.obd.reader.activity.TroubleCodesActivity"
+        ]
+    },
+    "25.dagger_refresh.apk": {
+        "app_pkg": "com.vestrel00.daggerbutterknifemvp",
+        "app_acti": [
+            "com.vestrel00.daggerbutterknifemvp.ui.main.MainActivity"
+        ],
+        "all_actis": [
+            "com.vestrel00.daggerbutterknifemvp.ui.main.MainActivity",
+            "com.vestrel00.daggerbutterknifemvp.ui.example_1.Example1Activity",
+            "com.vestrel00.daggerbutterknifemvp.ui.example_2.Example2Activity",
+            "com.vestrel00.daggerbutterknifemvp.ui.example_3.Example3Activity"
+        ]
+    },
+    "21.screenrecord.apk": {
+        "app_pkg": "com.orpheusdroid.screenrecorder",
+        "app_acti": [
+            "com.orpheusdroid.screenrecorder.MainActivity"
+        ],
+        "all_actis": [
+            "com.orpheusdroid.screenrecorder.MainActivity",
+            "com.orpheusdroid.screenrecorder.AboutActivity",
+            "com.orpheusdroid.screenrecorder.PrivacyPolicy",
+            "com.orpheusdroid.screenrecorder.EditVideoActivity"
+        ]
+    },
+    "4.carreport_s.apk": {
+        "app_pkg": "me.kuehle.carreport",
+        "app_acti": [
+            "me.kuehle.carreport.gui.ReportActivity"
+        ],
+        "all_actis": [
+            "me.kuehle.carreport.gui.ReportActivity",
+            "me.kuehle.carreport.gui.DataDetailActivity",
+            "me.kuehle.carreport.gui.DataListActivity",
+            "me.kuehle.carreport.gui.PreferencesActivity",
+            "me.kuehle.carreport.gui.HelpActivity",
+            "com.dropbox.client2.android.AuthActivity"
+        ]
+    },
+    "2.markor_s.apk": {
+        "app_pkg": "net.gsantner.markor",
+        "app_acti": [
+            "net.gsantner.markor.activity.MainActivity"
+        ],
+        "all_actis": [
+            "net.gsantner.markor.activity.MainActivity",
+            "net.gsantner.markor.activity.SettingsActivity",
+            "net.gsantner.markor.activity.AboutActivity",
+            "net.gsantner.markor.widget.WidgetConfigure",
+            "net.gsantner.markor.activity.DocumentActivity"
+        ]
+    },
+    "27.k-9_s.apk": {
+        "app_pkg": "com.fsck.k9",
+        "app_acti": [
+            "com.fsck.k9.activity.Accounts"
+        ],
+        "all_actis": [
+            "com.fsck.k9.activity.Accounts",
+            "com.fsck.k9.activity.setup.Prefs",
+            "com.fsck.k9.activity.setup.WelcomeMessage",
+            "com.fsck.k9.activity.setup.OpenPgpAppSelectDialog",
+            "com.fsck.k9.activity.setup.FontSizeSettings",
+            "com.fsck.k9.activity.setup.AccountSetupBasics",
+            "com.fsck.k9.activity.setup.AccountSetupAccountType",
+            "com.fsck.k9.activity.setup.AccountSetupIncoming",
+            "com.fsck.k9.activity.setup.AccountSetupComposition",
+            "com.fsck.k9.activity.setup.AccountSetupOutgoing",
+            "com.fsck.k9.activity.setup.AccountSetupOptions",
+            "com.fsck.k9.activity.setup.AccountSetupNames",
+            "com.fsck.k9.activity.ChooseAccount",
+            "com.fsck.k9.activity.ChooseFolder",
+            "com.fsck.k9.activity.ChooseIdentity",
+            "com.fsck.k9.activity.ManageIdentities",
+            "com.fsck.k9.activity.EditIdentity",
+            "com.fsck.k9.activity.NotificationDeleteConfirmation",
+            "com.fsck.k9.activity.setup.AccountSetupCheckSettings",
+            "com.fsck.k9.activity.setup.AccountSettings",
+            "com.fsck.k9.activity.setup.FolderSettings",
+            "com.fsck.k9.activity.FolderList",
+            "com.fsck.k9.activity.MessageList",
+            "com.fsck.k9.activity.MessageCompose",
+            "com.fsck.k9.activity.Search",
+            "com.fsck.k9.activity.LauncherShortcuts",
+            "com.fsck.k9.activity.EmailAddressList",
+            "com.fsck.k9.activity.UnreadWidgetConfiguration",
+            "com.fsck.k9.activity.UpgradeDatabases"
+        ]
+    },
+    "9.nodepad_s.apk": {
+        "app_pkg": "bander.notepad",
+        "app_acti": [
+            "bander.notepad.NoteList"
+        ],
+        "all_actis": [
+            "bander.notepad.NoteList",
+            "bander.notepad.NoteSearchResults",
+            "bander.notepad.TitleEdit",
+            "bander.notepad.NoteEdit",
+            "bander.notepad.NoteExport",
+            "bander.notepad.NoteImport",
+            "bander.notepad.Preferences"
+        ]
+    },
+    "3.birthdroid_s.apk": {
+        "app_pkg": "com.rigid.birthdroid",
+        "app_acti": [
+            "BirthdroidActivity"
+        ],
+        "all_actis": [
+            "BirthdroidActivity",
+            "AboutActivity",
+            "PreferencesActivity"
+        ]
+    },
+    "18.zom.apk": {
+        "app_pkg": "im.zom.messenger",
+        "app_acti": [
+            "org.awesomeapp.messenger.RouterActivity"
+        ],
+        "all_actis": [
+            "org.awesomeapp.messenger.RouterActivity",
+            "org.awesomeapp.messenger.ImUrlActivity",
+            "org.awesomeapp.messenger.ui.legacy.SignoutActivity",
+            "org.awesomeapp.messenger.ui.AddContactActivity",
+            "org.awesomeapp.messenger.ui.ContactsPickerActivity",
+            "org.awesomeapp.messenger.ui.AccountActivity",
+            "org.awesomeapp.messenger.ui.AccountSettingsActivity",
+            "org.awesomeapp.messenger.ui.legacy.SettingActivity",
+            "org.awesomeapp.messenger.ui.legacy.SmpResponseActivity",
+            "de.duenndns.ssl.MemorizingActivity",
+            "org.awesomeapp.messenger.ui.LockScreenActivity",
+            "org.awesomeapp.messenger.ui.onboarding.OnboardingActivity",
+            "org.awesomeapp.messenger.ui.qr.QrScanActivity",
+            "org.awesomeapp.messenger.ui.qr.QrDisplayActivity",
+            "net.hockeyapp.android.UpdateActivity",
+            "org.awesomeapp.messenger.ui.legacy.DummyActivity",
+            "org.awesomeapp.messenger.ui.widgets.ImageViewActivity",
+            "org.awesomeapp.messenger.ui.widgets.SecureCameraActivity",
+            "org.awesomeapp.messenger.MainActivity",
+            "org.awesomeapp.messenger.ui.ConversationDetailActivity",
+            "org.awesomeapp.messenger.ui.ContactListActivity",
+            "org.awesomeapp.messenger.ui.GalleryActivity",
+            "org.awesomeapp.messenger.ui.StickerActivity",
+            "org.awesomeapp.messenger.ui.PanicSetupActivity",
+            "org.awesomeapp.messenger.ui.ContactDisplayActivity",
+            "org.awesomeapp.messenger.ui.GroupDisplayActivity",
+            "org.awesomeapp.messenger.ui.AccountsActivity"
+        ]
+    },
+    "32.mifosng.apk": {
+        "app_pkg": "com.mifos.mifosxdroid",
+        "app_acti": [
+            "com.mifos.mifosxdroid.SplashScreenActivity"
+        ],
+        "all_actis": [
+            "com.mifos.mifosxdroid.SplashScreenActivity",
+            "com.mifos.mifosxdroid.login.LoginActivity",
+            "com.mifos.mifosxdroid.online.DashboardActivity",
+            "com.mifos.mifosxdroid.online.SurveyQuestionActivity",
+            "com.mifos.mifosxdroid.online.GroupsActivity",
+            "com.mifos.mifosxdroid.online.ClientActivity",
+            "com.mifos.mifosxdroid.online.CentersActivity",
+            "com.mifos.mifosxdroid.online.GenerateCollectionSheetActivity",
+            "com.mifos.mifosxdroid.ClientListActivity",
+            "com.mifos.mifosxdroid.GroupListActivity",
+            "com.mifos.mifosxdroid.activity.pinpointclient.PinpointClientActivity",
+            "com.mifos.mifosxdroid.activity.pathtracking.PathTrackingActivity",
+            "com.mifos.mifosxdroid.offline.syncclientpayloads.SyncClientPayloadActivity",
+            "com.mifos.mifosxdroid.offline.syncgrouppayloads.SyncGroupPayloadsActivity",
+            "com.mifos.mifosxdroid.offline.syncloanrepaymenttransacition.SyncLoanRepaymentTransactionActivity",
+            "com.mifos.mifosxdroid.offline.syncsavingsaccounttransaction.SyncSavingsAccountTransactionActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ]
+    },
+    "11.olam_space_s.apk": {
+        "app_pkg": "com.olam",
+        "app_acti": [
+            "com.olam.MainSearch"
+        ],
+        "all_actis": [
+            "com.olam.MainSearch"
+        ]
+    },
+    "8.anymemo_menu_s.apk": {
+        "app_pkg": "org.liberty.android.fantastischmemo",
+        "app_acti": [
+            "org.liberty.android.fantastischmemo.ui.AnyMemo"
+        ],
+        "all_actis": [
+            "org.liberty.android.fantastischmemo.ui.AnyMemo",
+            "org.liberty.android.fantastischmemo.ui.PaintActivity",
+            "org.liberty.android.fantastischmemo.downloader.anymemo.AnyMemoDownloaderActivity",
+            "org.liberty.android.fantastischmemo.downloader.quizlet.QuizletLauncher",
+            "org.liberty.android.fantastischmemo.downloader.google.GoogleAccountActivity",
+            "org.liberty.android.fantastischmemo.downloader.google.SpreadsheetListScreen",
+            "org.liberty.android.fantastischmemo.downloader.google.UploadGoogleDriveScreen",
+            "org.liberty.android.fantastischmemo.downloader.dropbox.DropboxListActivity",
+            "org.liberty.android.fantastischmemo.downloader.dropbox.UploadDropboxActivity",
+            "org.liberty.android.fantastischmemo.downloader.dropbox.DropboxOauth2AccountActivity",
+            "org.liberty.android.fantastischmemo.downloader.quizlet.QuizletUserPrivateActivity",
+            "org.liberty.android.fantastischmemo.downloader.quizlet.QuizletUploadActivity",
+            "org.liberty.android.fantastischmemo.downloader.quizlet.QuizletSearchByTitleActivity",
+            "org.liberty.android.fantastischmemo.downloader.quizlet.QuizletSearchByUsernameActivity",
+            "org.liberty.android.fantastischmemo.ui.CardEditor",
+            "org.liberty.android.fantastischmemo.ui.DetailScreen",
+            "org.liberty.android.fantastischmemo.ui.SettingsScreen",
+            "org.liberty.android.fantastischmemo.ui.CardListActivity",
+            "org.liberty.android.fantastischmemo.ui.FileBrowserActivity",
+            "org.liberty.android.fantastischmemo.ui.OptionScreen",
+            "org.liberty.android.fantastischmemo.ui.AlgorithmCustomizationScreen",
+            "org.liberty.android.fantastischmemo.ui.DatabaseMerger",
+            "org.liberty.android.fantastischmemo.ui.StatisticsScreen",
+            "org.liberty.android.fantastischmemo.ui.StudyActivity",
+            "org.liberty.android.fantastischmemo.ui.PreviewEditActivity",
+            "org.liberty.android.fantastischmemo.ui.QuizActivity",
+            "org.liberty.android.fantastischmemo.ui.CardPlayerActivity",
+            "org.liberty.android.fantastischmemo.ui.ShareScreen",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ]
+    },
+    "29.k9_2.apk": {
+        "app_pkg": "com.fsck.k9.debug",
+        "app_acti": [
+            "com.fsck.k9.activity.Accounts"
+        ],
+        "all_actis": [
+            "com.fsck.k9.activity.Accounts",
+            "com.fsck.k9.activity.setup.WelcomeMessage",
+            "com.fsck.k9.ui.settings.account.OpenPgpAppSelectDialog",
+            "com.fsck.k9.activity.setup.FontSizeSettings",
+            "com.fsck.k9.activity.setup.AccountSetupBasics",
+            "com.fsck.k9.activity.setup.AccountSetupAccountType",
+            "com.fsck.k9.activity.setup.AccountSetupIncoming",
+            "com.fsck.k9.activity.setup.AccountSetupComposition",
+            "com.fsck.k9.activity.setup.AccountSetupOutgoing",
+            "com.fsck.k9.activity.setup.AccountSetupOptions",
+            "com.fsck.k9.activity.setup.AccountSetupNames",
+            "com.fsck.k9.activity.ChooseAccount",
+            "com.fsck.k9.activity.ChooseFolder",
+            "com.fsck.k9.activity.ChooseIdentity",
+            "com.fsck.k9.activity.ManageIdentities",
+            "com.fsck.k9.activity.EditIdentity",
+            "com.fsck.k9.activity.NotificationDeleteConfirmation",
+            "com.fsck.k9.activity.setup.AccountSetupCheckSettings",
+            "com.fsck.k9.activity.setup.FolderSettings",
+            "com.fsck.k9.ui.endtoend.AutocryptKeyTransferActivity",
+            "com.fsck.k9.activity.FolderList",
+            "com.fsck.k9.activity.MessageList",
+            "com.fsck.k9.activity.MessageCompose",
+            "com.fsck.k9.activity.Search",
+            "com.fsck.k9.activity.LauncherShortcuts",
+            "com.fsck.k9.activity.EmailAddressList",
+            "com.fsck.k9.widget.unread.UnreadWidgetConfigurationActivity",
+            "com.fsck.k9.activity.UpgradeDatabases",
+            "com.fsck.k9.ui.settings.SettingsActivity",
+            "com.fsck.k9.ui.settings.AboutActivity",
+            "com.fsck.k9.ui.settings.general.GeneralSettingsActivity",
+            "com.fsck.k9.ui.settings.account.AccountSettingsActivity"
+        ]
+    },
+    "1.newsblur_s.apk": {
+        "app_pkg": "com.newsblur",
+        "app_acti": [
+            "com.newsblur.activity.InitActivity"
+        ],
+        "all_actis": [
+            "com.newsblur.activity.InitActivity",
+            "com.newsblur.activity.Login",
+            "com.newsblur.activity.LoginProgress",
+            "com.newsblur.activity.RegisterProgress",
+            "com.newsblur.activity.AddTwitter",
+            "com.newsblur.activity.AddFacebook",
+            "com.newsblur.activity.AddSocial",
+            "com.newsblur.activity.Main",
+            "com.newsblur.activity.Profile",
+            "com.newsblur.activity.Settings",
+            "com.newsblur.activity.FeedItemsList",
+            "com.newsblur.activity.AllStoriesItemsList",
+            "com.newsblur.activity.ReadStoriesItemsList",
+            "com.newsblur.activity.SavedStoriesItemsList",
+            "com.newsblur.activity.AllSharedStoriesItemsList",
+            "com.newsblur.activity.GlobalSharedStoriesItemsList",
+            "com.newsblur.activity.FolderItemsList",
+            "com.newsblur.activity.SocialFeedItemsList",
+            "com.newsblur.activity.FeedReading",
+            "com.newsblur.activity.AllStoriesReading",
+            "com.newsblur.activity.ReadStoriesReading",
+            "com.newsblur.activity.SavedStoriesReading",
+            "com.newsblur.activity.AllSharedStoriesReading",
+            "com.newsblur.activity.GlobalSharedStoriesReading",
+            "com.newsblur.activity.FolderReading",
+            "com.newsblur.activity.SearchForFeeds",
+            "com.newsblur.activity.SocialFeedReading",
+            "com.newsblur.activity.AddFeedExternal"
+        ]
+    },
+    "10.olam1__s.apk": {
+        "app_pkg": "com.olam",
+        "app_acti": [
+            "com.olam.MainSearch"
+        ],
+        "all_actis": [
+            "com.olam.MainSearch"
+        ]
+    },
+    "20.Pix-Art_s.apk": {
+        "app_pkg": "de.pixart.messenger",
+        "app_acti": [
+            "de.pixart.messenger.ui.StartUI"
+        ],
+        "all_actis": [
+            "de.pixart.messenger.ui.StartUI",
+            "de.pixart.messenger.ui.ConversationActivity",
+            "de.pixart.messenger.ui.StartConversationActivity",
+            "de.pixart.messenger.ui.WelcomeActivity",
+            "de.pixart.messenger.ui.MagicCreateActivity",
+            "de.pixart.messenger.ui.SetPresenceActivity",
+            "de.pixart.messenger.ui.SettingsActivity",
+            "de.pixart.messenger.ui.ChooseContactActivity",
+            "de.pixart.messenger.ui.BlocklistActivity",
+            "de.pixart.messenger.ui.ChangePasswordActivity",
+            "de.pixart.messenger.ui.ManageAccountActivity",
+            "de.pixart.messenger.ui.EditAccountActivity",
+            "de.pixart.messenger.ui.ConferenceDetailsActivity",
+            "de.pixart.messenger.ui.ContactDetailsActivity",
+            "de.pixart.messenger.ui.PublishProfilePictureActivity",
+            "de.pixart.messenger.ui.VerifyOTRActivity",
+            "de.pixart.messenger.ui.ShareWithActivity",
+            "de.pixart.messenger.ui.RecordingActivity",
+            "de.pixart.messenger.ui.ShareLocationActivity",
+            "de.pixart.messenger.ui.ShowLocationActivity",
+            "de.pixart.messenger.ui.ShowFullscreenMessageActivity",
+            "de.pixart.messenger.ui.TrustKeysActivity",
+            "de.duenndns.ssl.MemorizingActivity",
+            "de.pixart.messenger.ui.AboutActivity",
+            "de.pixart.messenger.ui.UpdaterActivity",
+            "com.soundcloud.android.crop.CropImageActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity",
+            "pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+        ]
+    },
+    "22.ventriloid_s.apk": {
+        "app_pkg": "com.jtxdriggers.android.ventriloid",
+        "app_acti": [
+            "com.jtxdriggers.android.ventriloid.Main"
+        ],
+        "all_actis": [
+            "com.jtxdriggers.android.ventriloid.Main",
+            "com.jtxdriggers.android.ventriloid.Manage",
+            "com.jtxdriggers.android.ventriloid.Edit",
+            "com.jtxdriggers.android.ventriloid.Add",
+            "com.jtxdriggers.android.ventriloid.Settings",
+            "com.jtxdriggers.android.ventriloid.ViewPagerActivity"
+        ]
+    },
+    "17.transistor_s.apk": {
+        "app_pkg": "org.y20k.transistor",
+        "app_acti": [
+            "org.y20k.transistor.MainActivity"
+        ],
+        "all_actis": [
+            "org.y20k.transistor.MainActivity",
+            "org.y20k.transistor.InfosheetActivity",
+            "org.y20k.transistor.PlayerActivity"
+        ]
+    },
+    "14.librenews_back_s.apk": {
+        "app_pkg": "app.librenews.io.librenews",
+        "app_acti": [
+            "app.librenews.io.librenews.views.MainFlashActivity"
+        ],
+        "all_actis": [
+            "app.librenews.io.librenews.views.MainFlashActivity",
+            "app.librenews.io.librenews.views.WelcomeActivity"
+        ]
+    },
+    "19.Pix-Art-share_s.apk": {
+        "app_pkg": "de.pixart.openmessenger",
+        "app_acti": [
+            "de.pixart.messenger.ui.StartUI"
+        ],
+        "all_actis": [
+            "de.pixart.messenger.ui.StartUI",
+            "de.pixart.messenger.ui.ConversationActivity",
+            "de.pixart.messenger.ui.StartConversationActivity",
+            "de.pixart.messenger.ui.WelcomeActivity",
+            "de.pixart.messenger.ui.MagicCreateActivity",
+            "de.pixart.messenger.ui.SetPresenceActivity",
+            "de.pixart.messenger.ui.SettingsActivity",
+            "de.pixart.messenger.ui.ChooseContactActivity",
+            "de.pixart.messenger.ui.BlocklistActivity",
+            "de.pixart.messenger.ui.ChangePasswordActivity",
+            "de.pixart.messenger.ui.ManageAccountActivity",
+            "de.pixart.messenger.ui.EditAccountActivity",
+            "de.pixart.messenger.ui.ConferenceDetailsActivity",
+            "de.pixart.messenger.ui.ContactDetailsActivity",
+            "de.pixart.messenger.ui.PublishProfilePictureActivity",
+            "de.pixart.messenger.ui.VerifyOTRActivity",
+            "de.pixart.messenger.ui.ShareWithActivity",
+            "de.pixart.messenger.ui.RecordingActivity",
+            "de.pixart.messenger.ui.ShareLocationActivity",
+            "de.pixart.messenger.ui.ShowLocationActivity",
+            "de.pixart.messenger.ui.ShowFullscreenMessageActivity",
+            "de.pixart.messenger.ui.TrustKeysActivity",
+            "de.duenndns.ssl.MemorizingActivity",
+            "de.pixart.messenger.ui.AboutActivity",
+            "de.pixart.messenger.ui.UpdaterActivity",
+            "com.soundcloud.android.crop.CropImageActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ]
+    },
+    "30.Anki-Android.apk": {
+        "app_pkg": "com.ichi2.anki",
+        "app_acti": [
+            "com.ichi2.anki.IntentHandler"
+        ],
+        "all_actis": [
+            "com.ichi2.anki.IntentHandler",
+            "com.ichi2.anki.DeckPicker",
+            "com.ichi2.anki.StudyOptionsActivity",
+            "com.ichi2.anki.CardBrowser",
+            "com.ichi2.anki.ModelBrowser",
+            "com.ichi2.anki.ModelFieldEditor",
+            "com.ichi2.anki.Reviewer",
+            "com.ichi2.anki.VideoPlayer",
+            "com.ichi2.anki.MyAccount",
+            "com.ichi2.anki.Preferences",
+            "com.ichi2.anki.DeckOptions",
+            "com.ichi2.anki.FilteredDeckOptions",
+            "com.ichi2.anki.Info",
+            "com.ichi2.anki.NoteEditor",
+            "com.ichi2.anki.dialogs.AnkiDroidCrashReportDialog",
+            "com.ichi2.anki.Statistics",
+            "com.ichi2.anki.Previewer",
+            "com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity",
+            "com.ichi2.anki.multimediacard.activity.TranslationActivity",
+            "com.ichi2.anki.multimediacard.activity.LoadPronounciationActivity",
+            "com.ichi2.anki.CardTemplateEditor"
+        ]
+    },
+    "23.news_s.apk": {
+        "app_pkg": "de.luhmer.owncloudnewsreader",
+        "app_acti": [
+            "de.luhmer.owncloudnewsreader.NewsReaderListActivity"
+        ],
+        "all_actis": [
+            "de.luhmer.owncloudnewsreader.NewsReaderListActivity",
+            "de.luhmer.owncloudnewsreader.NewsDetailActivity",
+            "de.luhmer.owncloudnewsreader.SettingsActivity",
+            "de.luhmer.owncloudnewsreader.DownloadImagesActivity",
+            "de.luhmer.owncloudnewsreader.SyncIntervalSelectorActivity",
+            "de.luhmer.owncloudnewsreader.NewFeedActivity",
+            "de.luhmer.owncloudnewsreader.DirectoryChooserActivity",
+            "com.nbsp.materialfilepicker.ui.FilePickerActivity"
+        ]
+    },
+    "26.odk.apk": {
+        "app_pkg": "org.odk.collect.android",
+        "app_acti": [
+            "org.odk.collect.android.activities.SplashScreenActivity"
+        ],
+        "all_actis": [
+            "org.odk.collect.android.activities.MainMenuActivity",
+            "org.odk.collect.android.activities.ScannerWithFlashlightActivity",
+            "org.odk.collect.android.activities.FormEntryActivity",
+            "org.odk.collect.android.activities.NotificationActivity",
+            "org.odk.collect.android.activities.DrawActivity",
+            "org.odk.collect.android.activities.GoogleDriveActivity",
+            "org.odk.collect.android.activities.InstanceChooserList",
+            "org.odk.collect.android.activities.FormChooserList",
+            "org.odk.collect.android.activities.FormDownloadList",
+            "org.odk.collect.android.activities.FileManagerTabs",
+            "org.odk.collect.android.activities.GoogleSheetsUploaderActivity",
+            "org.odk.collect.android.activities.InstanceUploaderList",
+            "org.odk.collect.android.activities.InstanceUploaderActivity",
+            "org.odk.collect.android.activities.AboutActivity",
+            "org.odk.collect.android.preferences.PreferencesActivity",
+            "org.odk.collect.android.preferences.AdminPreferencesActivity",
+            "org.odk.collect.android.activities.ViewFormHierarchyActivity",
+            "org.odk.collect.android.activities.EditFormHierarchyActivity",
+            "org.odk.collect.android.activities.GeoPointActivity",
+            "org.odk.collect.android.activities.GeoPointMapActivity",
+            "org.odk.collect.android.activities.GeoPointOsmMapActivity",
+            "org.odk.collect.android.activities.GeoShapeOsmMapActivity",
+            "org.odk.collect.android.activities.GeoShapeGoogleMapActivity",
+            "org.odk.collect.android.activities.GeoTraceOsmMapActivity",
+            "org.odk.collect.android.activities.GeoTraceGoogleMapActivity",
+            "org.odk.collect.android.activities.BearingActivity",
+            "org.odk.collect.android.activities.SplashScreenActivity",
+            "org.odk.collect.android.activities.AndroidShortcuts",
+            "org.odk.collect.android.activities.CaptureSelfieActivity",
+            "org.odk.collect.android.activities.CaptureSelfieActivityNewApi",
+            "org.odk.collect.android.location.GeoActivity",
+            "org.odk.collect.android.activities.WebViewActivity",
+            "org.odk.collect.android.activities.CaptureSelfieVideoActivity",
+            "org.odk.collect.android.activities.CaptureSelfieVideoActivityNewApi",
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+            "com.journeyapps.barcodescanner.CaptureActivity",
+            "com.google.android.gms.common.api.GoogleApiActivity"
+        ]
+    },
+    "5.opensudoku_s.apk": {
+        "app_pkg": "cz.romario.opensudoku",
+        "app_acti": [
+            "cz.romario.opensudoku.gui.FolderListActivity"
+        ],
+        "all_actis": [
+            "cz.romario.opensudoku.gui.FolderListActivity",
+            "cz.romario.opensudoku.gui.SudokuListActivity",
+            "cz.romario.opensudoku.gui.SudokuEditActivity",
+            "cz.romario.opensudoku.gui.FileImportActivity",
+            "cz.romario.opensudoku.gui.ImportSudokuActivity",
+            "cz.romario.opensudoku.gui.SudokuImportActivity",
+            "cz.romario.opensudoku.gui.SudokuExportActivity",
+            "cz.romario.opensudoku.gui.SudokuPlayActivity",
+            "cz.romario.opensudoku.gui.GameSettingsActivity",
+            "cz.romario.opensudoku.gui.FileListActivity"
+        ]
+    },
+    "13.librenews_refresh_s.apk": {
+        "app_pkg": "app.librenews.io.librenews",
+        "app_acti": [
+            "app.librenews.io.librenews.views.MainFlashActivity"
+        ],
+        "all_actis": [
+            "app.librenews.io.librenews.views.MainFlashActivity",
+            "app.librenews.io.librenews.views.WelcomeActivity"
+        ]
+    },
+    "16.smssync_s.apk": {
+        "app_pkg": "org.addhen.smssync",
+        "app_acti": [
+            "org.addhen.smssync.presentation.view.ui.activity.MainActivity"
+        ],
+        "all_actis": [
+            "org.addhen.smssync.presentation.view.ui.activity.MainActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.GettingStartedActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.OauthActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.SettingsActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.TwitterProfileActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.AddPhoneNumberActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.AddKeywordsActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.AddTwitterKeywordsActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.ListWebServiceActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.AddWebServiceActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.UpdateWebServiceActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.QrcodeReaderActivity",
+            "org.addhen.smssync.presentation.view.ui.activity.AutomationSettingsActivity",
+            "org.addhen.smssync.ComposeSmsActivity"
+        ]
+    },
+    "15.librenews_s.apk": {
+        "app_pkg": "app.librenews.io.librenews",
+        "app_acti": [
+            "app.librenews.io.librenews.views.MainFlashActivity"
+        ],
+        "all_actis": [
+            "app.librenews.io.librenews.views.MainFlashActivity",
+            "app.librenews.io.librenews.views.WelcomeActivity"
+        ]
+    },
+    "31.tago.apk": {
+        "app_pkg": "com.hiddenramblings.tagmo",
+        "app_acti": [
+            "com.hiddenramblings.tagmo.MainActivity_"
+        ],
+        "all_actis": [
+            "com.hiddenramblings.tagmo.MainActivity_",
+            "com.hiddenramblings.tagmo.NfcActivity_",
+            "com.hiddenramblings.tagmo.EditorSSB_",
+            "com.hiddenramblings.tagmo.HexViewerActivity_"
+        ]
+    },
+    "33.flash_debug.apk": {
+        "app_pkg": "com.example.terin.asu_flashcardapp",
+        "app_acti": [
+            "com.example.terin.asu_flashcardapp.LoginActivity"
+        ],
+        "all_actis": [
+            "com.example.terin.asu_flashcardapp.LoginActivity",
+            "com.example.terin.asu_flashcardapp.AddCourse",
+            "com.example.terin.asu_flashcardapp.Options",
+            "com.example.terin.asu_flashcardapp.StudyWindow",
+            "com.example.terin.asu_flashcardapp.UserStats",
+            "com.example.terin.asu_flashcardapp.CreateItems",
+            "com.example.terin.asu_flashcardapp.CreateOptions"
+        ]
+    },
+    "28.k9.apk": {
+        "app_pkg": "com.fsck.k9.debug",
+        "app_acti": [
+            "com.fsck.k9.activity.Accounts"
+        ],
+        "all_actis": [
+            "com.fsck.k9.activity.Accounts",
+            "com.fsck.k9.activity.setup.WelcomeMessage",
+            "com.fsck.k9.ui.settings.account.OpenPgpAppSelectDialog",
+            "com.fsck.k9.activity.setup.FontSizeSettings",
+            "com.fsck.k9.activity.setup.AccountSetupBasics",
+            "com.fsck.k9.activity.setup.AccountSetupAccountType",
+            "com.fsck.k9.activity.setup.AccountSetupIncoming",
+            "com.fsck.k9.activity.setup.AccountSetupComposition",
+            "com.fsck.k9.activity.setup.AccountSetupOutgoing",
+            "com.fsck.k9.activity.setup.AccountSetupOptions",
+            "com.fsck.k9.activity.setup.AccountSetupNames",
+            "com.fsck.k9.activity.ChooseAccount",
+            "com.fsck.k9.activity.ChooseFolder",
+            "com.fsck.k9.activity.ChooseIdentity",
+            "com.fsck.k9.activity.ManageIdentities",
+            "com.fsck.k9.activity.EditIdentity",
+            "com.fsck.k9.activity.NotificationDeleteConfirmation",
+            "com.fsck.k9.activity.setup.AccountSetupCheckSettings",
+            "com.fsck.k9.activity.setup.FolderSettings",
+            "com.fsck.k9.ui.endtoend.AutocryptKeyTransferActivity",
+            "com.fsck.k9.activity.FolderList",
+            "com.fsck.k9.activity.MessageList",
+            "com.fsck.k9.activity.MessageCompose",
+            "com.fsck.k9.activity.Search",
+            "com.fsck.k9.activity.LauncherShortcuts",
+            "com.fsck.k9.activity.EmailAddressList",
+            "com.fsck.k9.widget.unread.UnreadWidgetConfigurationActivity",
+            "com.fsck.k9.activity.UpgradeDatabases",
+            "com.fsck.k9.ui.settings.SettingsActivity",
+            "com.fsck.k9.ui.settings.AboutActivity",
+            "com.fsck.k9.ui.settings.general.GeneralSettingsActivity",
+            "com.fsck.k9.ui.settings.account.AccountSettingsActivity"
+        ]
+    },
+    "12.fastadaper_s.apk": {
+        "app_pkg": "com.mikepenz.fastadapter.app",
+        "app_acti": [
+            "com.mikepenz.fastadapter.app.SampleActivity"
+        ],
+        "all_actis": [
+            "com.mikepenz.fastadapter.app.SampleActivity",
+            "com.mikepenz.fastadapter.app.SimpleItemListActivity",
+            "com.mikepenz.fastadapter.app.SwipeListActivity",
+            "com.mikepenz.fastadapter.app.ImageListActivity",
+            "com.mikepenz.fastadapter.app.MultiselectSampleActivity",
+            "com.mikepenz.fastadapter.app.ExpandableSampleActivity",
+            "com.mikepenz.fastadapter.app.ExpandableMultiselectDeleteSampleActivity",
+            "com.mikepenz.fastadapter.app.StickyHeaderSampleActivity",
+            "com.mikepenz.fastadapter.app.AdvancedSampleActivity",
+            "com.mikepenz.fastadapter.app.IconGridActivity",
+            "com.mikepenz.fastadapter.app.GenericItemActivity",
+            "com.mikepenz.fastadapter.app.MultiTypeGenericItemActivity",
+            "com.mikepenz.fastadapter.app.CheckBoxSampleActivity",
+            "com.mikepenz.fastadapter.app.RadioButtonSampleActivity",
+            "com.mikepenz.fastadapter.app.EndlessScrollListActivity",
+            "com.mikepenz.fastadapter.app.SortActivity",
+            "com.mikepenz.fastadapter.app.MopubAdsActivity",
+            "com.mikepenz.fastadapter.app.RealmActivity",
+            "com.mopub.common.MoPubBrowser",
+            "com.mopub.mobileads.MoPubActivity",
+            "com.mopub.mobileads.MraidActivity",
+            "com.mopub.mobileads.MraidVideoPlayerActivity",
+            "com.mikepenz.aboutlibraries.ui.LibsActivity"
+        ]
+    },
+    "6.acv_s.apk": {
+        "app_pkg": "net.androidcomics.acv",
+        "app_acti": [
+            "net.robotmedia.acv.ui.ComicViewerActivity"
+        ],
+        "all_actis": [
+            "net.robotmedia.acv.ui.ComicViewerActivity",
+            "net.robotmedia.acv.ui.BrowseActivity",
+            "net.robotmedia.acv.ui.SDBrowserActivity",
+            "net.robotmedia.acv.ui.settings.mobile.SettingsActivityMobile",
+            "net.robotmedia.acv.ui.settings.tablet.SettingsActivityTablet",
+            "net.robotmedia.acv.ui.settings.mobile.VisualSettingsActivity",
+            "net.robotmedia.acv.ui.settings.mobile.ControlSettingsActivity",
+            "net.robotmedia.acv.ui.settings.mobile.StorageSettingsActivity",
+            "net.robotmedia.acv.ui.settings.mobile.AboutSettingsActivity",
+            "net.robotmedia.acv.ui.settings.mobile.AdvancedSettingsActivity",
+            "net.robotmedia.acv.ui.SubscribeActivity",
+            "com.google.ads.AdActivity"
+        ]
+    }
+}

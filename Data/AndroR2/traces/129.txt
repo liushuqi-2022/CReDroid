@@ -1,0 +1,16 @@
+02-10 14:00:39.640  2812  2812 E AndroidRuntime: FATAL EXCEPTION: main
+02-10 14:00:39.640  2812  2812 E AndroidRuntime: Process: org.shadowice.flocke.andotp.dev, PID: 2812
+02-10 14:00:39.640  2812  2812 E AndroidRuntime: java.lang.IllegalArgumentException: Last encoded character (before the paddings if any) is a valid base 32 alphabet but not a possible value. Expected the discarded bits to be zero.
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.apache.commons.codec.binary.Base32.validateCharacter(Base32.java:577)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.apache.commons.codec.binary.Base32.decode(Base32.java:404)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.apache.commons.codec.binary.BaseNCodec.decode(BaseNCodec.java:482)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.apache.commons.codec.binary.BaseNCodec.decode(BaseNCodec.java:465)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.shadowice.flocke.andotp.Database.Entry.<init>(Entry.java:90)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at org.shadowice.flocke.andotp.Dialogs.ManualEntryDialog$7.onClick(ManualEntryDialog.java:210)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at com.android.internal.app.AlertController$ButtonHandler.handleMessage(AlertController.java:163)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:102)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-10 14:00:39.640  2812  2812 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)

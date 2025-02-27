@@ -1,0 +1,4 @@
+11-16 14:02:37.033 13636 13719 E kiwix   : Exception reading article null from zim file
+11-16 14:02:37.033 13636 13719 E kiwix   : java.lang.NullPointerException: Attempt to invoke virtual method 'byte[] org.kiwix.kiwixlib.JNIKiwixReader.getContent(java.lang.String, org.kiwix.
+kiwixlib.JNIKiwixString, org.kiwix.kiwixlib.JNIKiwixString, org.kiwix.kiwixlib.JNIKiwixInt)' on a null object reference
+11-16 14:02:37.033 13636 13719 E kiwix   :      at org.kiwix.kiwixmobile.ZimContentProvider$TransferThread.run(ZimContentProvider.java:481)

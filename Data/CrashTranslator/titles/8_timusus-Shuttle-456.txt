@@ -1,0 +1,1 @@
+Shuttle player crashes when trying to create new playlists

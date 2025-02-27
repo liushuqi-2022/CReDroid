@@ -1,0 +1,20 @@
+11-16 14:26:16.457 15022 15022 E AndroidRuntime: FATAL EXCEPTION: main
+11-16 14:26:16.457 15022 15022 E AndroidRuntime: Process: es.usc.citius.servando.calendula, PID: 15022
+11-16 14:26:16.457 15022 15022 E AndroidRuntime: java.lang.IllegalStateException: Fragment b{28c8fa6 #0 number_dialog} declared target fragment MedicineCreateOrEditFragment{ac72a36 #0 id=0x
+7f0901de android:switcher:2131296734:0} that does not belong to this FragmentManager!
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.a(Unknown Source:303)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.e(Unknown Source:38)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.a(Unknown Source:45)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.d.g(Unknown Source:169)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.b(Unknown Source:38)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.a(Unknown Source:112)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.b(Unknown Source:89)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p.f(Unknown Source:21)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.support.v4.app.p$1.run(Unknown Source:2)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:790)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:164)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:6494)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+11-16 14:26:16.457 15022 15022 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:807)

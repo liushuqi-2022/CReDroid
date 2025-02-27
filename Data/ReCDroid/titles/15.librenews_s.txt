@@ -1,0 +1,1 @@
+While changing the server and then pressing on the refresh button the app should refresh the news flashes as expected. 

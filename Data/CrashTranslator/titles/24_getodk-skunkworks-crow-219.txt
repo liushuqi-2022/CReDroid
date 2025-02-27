@@ -1,0 +1,1 @@
+app crashes on clicking send if location is disabled

@@ -1,0 +1,18 @@
+02-10 13:51:52.609  2102  2119 E AndroidRuntime: FATAL EXCEPTION: AsyncTask #1
+02-10 13:51:52.609  2102  2119 E AndroidRuntime: Process: com.droidheat.musicplayer, PID: 2102
+02-10 13:51:52.609  2102  2119 E AndroidRuntime: java.lang.RuntimeException: An error occurred while executing doInBackground()
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at android.os.AsyncTask$3.done(AsyncTask.java:309)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:354)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.FutureTask.setException(FutureTask.java:223)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.FutureTask.run(FutureTask.java:242)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:234)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.lang.Thread.run(Thread.java:818)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime: Caused by: java.lang.IllegalArgumentException: n <= 0: 0
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.Random.nextInt(Random.java:182)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at com.droidheat.musicplayer.SplashActivity$PerformBackgroundTasks.doInBackground(SplashActivity.java:122)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at com.droidheat.musicplayer.SplashActivity$PerformBackgroundTasks.doInBackground(SplashActivity.java:114)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at android.os.AsyncTask$2.call(AsyncTask.java:295)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+02-10 13:51:52.609  2102  2119 E AndroidRuntime:        ... 4 more

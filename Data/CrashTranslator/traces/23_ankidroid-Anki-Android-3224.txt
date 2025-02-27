@@ -1,0 +1,2 @@
+10-07 14:08:01.069 29433 29509 E AnkiDroid: doInBackgroundSync error
+10-07 14:08:01.147  1348  1348 E EGL_emulation: tid 1348: eglCreateSyncKHR(1901): error 0x3004 (EGL_BAD_ATTRIBUTE)

@@ -1,0 +1,1 @@
+App Closes On Pressing Back Button In Manual Setup

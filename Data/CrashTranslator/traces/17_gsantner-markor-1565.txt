@@ -1,0 +1,22 @@
+02-16 18:40:14.059  5254  5254 E AndroidRuntime: FATAL EXCEPTION: main
+02-16 18:40:14.059  5254  5254 E AndroidRuntime: Process: net.gsantner.markor, PID: 5254
+02-16 18:40:14.059  5254  5254 E AndroidRuntime: java.lang.RuntimeException: Unable to start activity ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.DocumentActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String net.gsantner.markor.model.Document.getPath()' on a null object reference
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2546)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2606)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.handleRelaunchActivity(ActivityThread.java:4236)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.-wrap15(ActivityThread.java)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1450)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:102)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:148)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:5654)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:672)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String net.gsantner.markor.model.Document.getPath()' on a null object reference
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at net.gsantner.markor.activity.DocumentActivity.showTextEditor(DocumentActivity.java:267)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at net.gsantner.markor.activity.DocumentActivity.handleLaunchingIntent(DocumentActivity.java:191)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at net.gsantner.markor.activity.DocumentActivity.onCreate(DocumentActivity.java:154)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.Activity.performCreate(Activity.java:6279)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1107)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2499)
+02-16 18:40:14.059  5254  5254 E AndroidRuntime:        ... 10 more

@@ -1,0 +1,1 @@
+Pressing Paint in Quiz mode crashes the app every time

@@ -1,0 +1,1 @@
+02-10 13:59:17.015  2649  2649 E UncaughtException: Got an uncaught exception: java.lang.NullPointerException: Attempt to invoke virtual method 'void org.osmdroid.views.MapView.onResume()' on a null object reference

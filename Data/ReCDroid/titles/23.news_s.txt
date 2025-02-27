@@ -1,0 +1,1 @@
+App crashes when entering "Settings" on Android 4.4.4
